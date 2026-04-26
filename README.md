@@ -1,7 +1,7 @@
 <div align="center">
 
 # Priaansh Gupta
-### Engineer · Founder · Builder · Creator | Robotics, AI & Automation Architect | President @ Startup Ignition Cell
+### Engineer · Founder · Builder · Creator | Robotics, AI & Automation Architect
 **Architecting at the intersection of Hardware, Mechanics, and Intelligence.**
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/priaansh-gupta)
@@ -30,14 +30,6 @@ I am an engineer and founder who builds at the edge of what’s possible. I trea
 * **Applied AI:** Implementation of Edge-AI models for real-time computer vision and tactile object recognition.
 * **Signal Intelligence:** Advanced modulation classification and brain-wave taste classification using MATLAB.
 * **Full-Stack Orchestration:** Building robust backends with Supabase and modern interactive interfaces via React and Vite.
-
----
-
-### 🏛 Leadership & Impact
-
-* **President @ Startup Ignition Cell:** Driving the elevation of academic prototypes into commercially viable tech products and securing official incubation.
-* **Vice President @ Phoenix Robotics Club:** Directing technical trajectory and engineering hands-on hardware workshops for autonomous systems.
-* **Team Head @ Google Developer Student Clubs:** Accelerating the adoption of modern cloud infrastructure and AI developer tools.
 
 ---
 
