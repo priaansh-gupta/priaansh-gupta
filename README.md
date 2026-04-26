@@ -1,13 +1,20 @@
+<div align="center">
+
 # Priaansh Gupta
+### Engineer · Founder · Builder · Creator | Robotics, AI & Automation Architect | President @ Startup Ignition Cell
+**Architecting at the intersection of Hardware, Mechanics, and Intelligence.**
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/priaansh-gupta)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/priaansh-gupta)
 [![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://priaansh.vercel.app/)
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/priaansh_5707)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/your_username)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:priaanshgupta@gmail.com)
 
-### Architecting at the Intersection of Hardware, Mechanics, and Intelligence.
+</div>
 
+---
+
+### 💡 Executive Summary
 I am an engineer and founder who builds at the edge of what’s possible. I treat the world as a laboratory, specializing in solving high-stakes technical problems through robotics, AI, and automation. If a solution doesn't exist, I architect it. If a skill is missing, I acquire it. I am driven by the obsession to build the next generation of autonomous systems.
 
 ---
@@ -26,14 +33,6 @@ I am an engineer and founder who builds at the edge of what’s possible. I trea
 
 ---
 
-### 🚀 Active Deployments & Projects
-
-* **Explorer Viewfinder:** Designing an Edge-AI computer vision device for real-time object identification and tactile learning.
-* **Smart Medical Scale:** Architecting a high-precision IoT weighing system leveraging RFID authentication and Supabase backend integration.
-* **Intelligent Modulation Classification:** Authored research on MATLAB-based machine learning tools for signal processing.
-
----
-
 ### 🏛 Leadership & Impact
 
 * **President @ Startup Ignition Cell:** Driving the elevation of academic prototypes into commercially viable tech products and securing official incubation.
@@ -42,11 +41,24 @@ I am an engineer and founder who builds at the edge of what’s possible. I trea
 
 ---
 
-### 📊 Vital Statistics
+### 📊 Performance Metrics
 
-![Priaansh's GitHub stats](https://github-readme-stats.vercel.app/api?username=priaansh-gupta&show_icons=true&theme=tokyonight)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=priaansh-gupta&layout=compact&theme=tokyonight)
+<div align="center">
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=priaansh-gupta&show_icons=true&theme=tokyonight&hide_border=true)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=priaansh-gupta&layout=compact&theme=tokyonight&hide_border=true)
+
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=priaansh-gupta&theme=tokyonight&hide_border=true)
+
+**Contribution Graph**
+![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=priaansh-gupta&theme=tokyo-night&area=true&hide_border=true)
+
+</div>
 
 ---
 
+<div align="center">
+
 *"A missing skill has never stopped a build. I specialize in figuring it out."*
+
+</div>
