@@ -1,6 +1,6 @@
 <div align="center">
 
-# Priaansh Gupta
+# ✋ Hey this Priaansh Gupta
 ### Engineer · Founder · Builder · Creator | Robotics, AI & Automation Architect
 **Architecting at the intersection of Hardware, Mechanics, and Intelligence.**
 
