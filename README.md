@@ -37,11 +37,12 @@ I am an engineer and founder who builds at the edge of what’s possible. I trea
 
 <div align="center">
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=priaansh-gupta&layout=compact&theme=tokyonight&hide_border=true)
 
 **Contribution Graph**
 ![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=priaansh-gupta&theme=tokyo-night&area=true&hide_border=true)
 
+**Languages Used**
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=priaansh-gupta&layout=compact&theme=tokyonight&hide_border=true)
 </div>
 
 ---
