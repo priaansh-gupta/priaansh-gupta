@@ -36,11 +36,7 @@ I am an engineer and founder who builds at the edge of what’s possible. I trea
 ### 📊 Performance Metrics
 
 <div align="center">
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=priaansh-gupta&show_icons=true&theme=tokyonight&hide_border=true)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=priaansh-gupta&layout=compact&theme=tokyonight&hide_border=true)
-
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=priaansh-gupta&theme=tokyonight&hide_border=true)
 
 **Contribution Graph**
 ![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=priaansh-gupta&theme=tokyo-night&area=true&hide_border=true)
