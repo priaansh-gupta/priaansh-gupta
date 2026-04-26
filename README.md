@@ -5,17 +5,17 @@ I am an engineer and founder who builds at the edge of what’s possible. I trea
 
 ---
 
-### 🛠 Technical Arsenal
+### ⚙️ Technical Architecture & Core Competencies
 
-**Core Specializations:**
-* **Systems Engineering:** Embedded Systems, Low-Level Control, IoT Architecture
-* **Intelligence:** Edge AI, Computer Vision, Signal Processing 
-* **Infrastructure:** Python-Driven Robotics, Cloud Integration, Full-Stack Systems
+**Hardware & Autonomous Systems**
+* **Embedded Engineering:** Low-level firmware development, RTOS-less control, and high-speed signal processing.
+* **Physical Computing:** Architecting custom PCB logic and sensor arrays using ESP8266/ESP32 and RFID/NFC protocols.
+* **Robotics Control:** Engineering Python-driven physical robotics and real-time autonomous navigation systems.
 
-**The Stack:**
-* **Languages:** Python (Advanced), C++, C, JavaScript, MATLAB
-* **Hardware:** ESP8266/ESP32, RFID/NFC Integration, Sensors & Actuators
-* **Tools:** React, Tailwind CSS, Vite, Git, LaTeX/Overleaf
+**Intelligence & Infrastructure**
+* **Applied AI:** Implementation of Edge-AI models for real-time computer vision and tactile object recognition.
+* **Signal Intelligence:** Advanced modulation classification and brain-wave taste classification using MATLAB.
+* **Full-Stack Orchestration:** Building robust backends with Supabase and modern interactive interfaces via React and Vite.
 
 ---
 
