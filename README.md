@@ -1,8 +1,5 @@
-<div align="center">
-  <img src="https://gprm.itsvg.in/api/basic?greeting=Hi%20there,%20I'm&name=Priaansh%20Gupta&tagline=Architecting%20at%20the%20Intersection%20of%20Hardware,%20Mechanics,%20and%20Intelligence&connections=priaansh-gupta,priaansh.vercel.app,priaanshgupta@gmail.com&color=00d4ff" alt="Header" />
-</div>
-
 # Priaansh Gupta
+### Architecting at the Intersection of Hardware, Mechanics, and Intelligence.
 
 I am an engineer and founder who builds at the edge of what’s possible. I treat the world as a laboratory, specializing in solving high-stakes technical problems through robotics, AI, and automation. If a solution doesn't exist, I architect it. If a skill is missing, I acquire it. I am driven by the obsession to build the next generation of autonomous systems.
 
@@ -40,10 +37,8 @@ I am an engineer and founder who builds at the edge of what’s possible. I trea
 
 ### 📊 Vital Statistics
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=priaansh-gupta&show_icons=true&theme=tokyonight" alt="Priaansh's GitHub stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=priaansh-gupta&layout=compact&theme=tokyonight" alt="Top Langs" />
-</p>
+![Priaansh's GitHub stats](https://github-readme-stats.vercel.app/api?username=priaansh-gupta&show_icons=true&theme=tokyonight)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=priaansh-gupta&layout=compact&theme=tokyonight)
 
 ---
 
