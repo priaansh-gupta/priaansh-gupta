@@ -1,4 +1,11 @@
 # Priaansh Gupta
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/priaansh-gupta)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/priaansh-gupta)
+[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://priaansh.vercel.app/)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/priaansh_5707)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:priaanshgupta@gmail.com)
+
 ### Architecting at the Intersection of Hardware, Mechanics, and Intelligence.
 
 I am an engineer and founder who builds at the edge of what’s possible. I treat the world as a laboratory, specializing in solving high-stakes technical problems through robotics, AI, and automation. If a solution doesn't exist, I architect it. If a skill is missing, I acquire it. I am driven by the obsession to build the next generation of autonomous systems.
@@ -41,10 +48,5 @@ I am an engineer and founder who builds at the edge of what’s possible. I trea
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=priaansh-gupta&layout=compact&theme=tokyonight)
 
 ---
-
-### 🔗 Connect
-* **Portfolio:** [priaansh.vercel.app](https://priaansh.vercel.app/)
-* **LinkedIn:** [linkedin.com/in/priaansh-gupta](https://www.linkedin.com/in/priaansh-gupta/)
-* **Email:** priaanshgupta@gmail.com
 
 *"A missing skill has never stopped a build. I specialize in figuring it out."*
