@@ -1,11 +1,14 @@
 # 💫 About Me:
 I am an engineer, a founder, and a chronic problemsolver who builds things in ways that probably shouldn't work, but do. 𝗜𝗳 𝗶𝘁 𝗶𝘀 𝗯𝗿𝗼𝗸𝗲𝗻, 𝗜 𝘄𝗶𝗹𝗹 𝗳𝗶𝘅 𝗶𝘁. If it doesn't exist, I will build it. If it is "𝗶𝗺𝗽𝗼𝘀𝘀𝗶𝗯𝗹𝗲", I prove otherwise. I do not just "𝘀𝘁𝘂𝗱𝘆" Electronics and Communication Engineering — I treat the world as my laboratory. Engineer's instinct. Innovator's drive. Creator's curiosity. One goal: 𝗜𝗺𝗽𝗮𝗰𝘁.
 
+<br>
 𝗪𝗵𝗮𝘁 𝗜 𝗯𝗿𝗶𝗻𝗴 𝘁𝗼 𝘁𝗵𝗲 𝘁𝗮𝗯𝗹𝗲: 
+<ls>
 • 𝗦𝘁𝘂𝗯𝗯𝗼𝗿𝗻 𝗢𝗽𝘁𝗶𝗺𝗶𝘀𝗺: I specialise in figuring it out. 
 • 𝗥𝗮𝗱𝗶𝗰𝗮𝗹 𝗔𝗱𝗮𝗽𝘁𝗮𝗯𝗶𝗹𝗶𝘁𝘆: A missing skill has never stopped a build. 
 • 𝗧𝗵𝗲 𝗖𝗼𝗻𝗻𝗲𝗰𝘁𝗼𝗿 𝗠𝗲𝗻𝘁𝗮𝗹𝗶𝘁𝘆: I build the networks that power the tech.
-I am here to build the next generation of Robotics, AI, and Automation — not because it is a career path, but because I am genuinely obsessed with what comes next.<br>
+</ls>
+  I am here to build the next generation of Robotics, AI, and Automation — not because it is a career path, but because I am genuinely obsessed with what comes next.<br>
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/priaansh_5707) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/priaansh-gupta) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:priaanshgupta@gmail.com) 
