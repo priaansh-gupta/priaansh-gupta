@@ -21,15 +21,20 @@ I am an engineer and founder who builds at the edge of what’s possible. I trea
 
 ### ⚙️ Technical Architecture & Core Competencies
 
-**Hardware & Autonomous Systems**
-* **Embedded Engineering:** Low-level firmware development, RTOS-less control, and high-speed signal processing.
-* **Physical Computing:** Architecting custom PCB logic and sensor arrays using ESP8266/ESP32 and RFID/NFC protocols.
-* **Robotics Control:** Engineering Python-driven physical robotics and real-time autonomous navigation systems.
+**Robotics & Hardware Engineering**
+* **Autonomous Systems & Control:** ROS/ROS2, SLAM, Sensor Fusion, custom drone propulsion integration, and Micromouse algorithms.
+* **Embedded & Edge Computing:** RTOS, physical computing with microcontrollers (ESP8266/ESP32, Raspberry Pi), and Edge-AI execution (Tiny LLMs).
+* **Hardware Design & Simulation:** PCB Design, 3D Modeling, CAD, Industrial IoT (IIoT), and hardware-in-the-loop testing (Wokwi, Proteus).
 
-**Intelligence & Infrastructure**
-* **Applied AI:** Implementation of Edge-AI models for real-time computer vision and tactile object recognition.
-* **Signal Intelligence:** Advanced modulation classification and brain-wave taste classification using MATLAB.
-* **Full-Stack Orchestration:** Building robust backends with Supabase and modern interactive interfaces via React and Vite.
+**Artificial Intelligence & Automation**
+* **Agentic AI & LLMs:** Architecting reasoning systems, RAG & CAG frameworks, LangChain, LangGraph, CrewAI, and multimodal EDA models.
+* **Computer Vision & ML:** PyTorch, TensorFlow, YOLO architectures (v12x for C-UAS), OpenCV, ONNX/TensorRT, and defect detection pipelines.
+* **Data & Signal Intelligence:** NLP bots, MATLAB & Simulink, high-speed signal processing, and real-time tactile data translation.
+
+**Software Architecture & Infrastructure**
+* **Full-Stack Ecosystems:** C/C++, Python, TypeScript/JavaScript, Next.js, Node.js, React Native, and Flutter.
+* **DevOps & Cloud:** AWS/GCP, Docker, Kubernetes, MIOps, FastAPI, and robust database management (SQL/NoSQL).
+* **Decentralized Systems:** Web3 infrastructure, DAO governance, and utility token deployment.
 
 ---
 
