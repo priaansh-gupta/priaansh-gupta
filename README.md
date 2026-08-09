@@ -2,34 +2,34 @@
 
 <!-- ✨ Animated Banner ✨ -->
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="./priaansh-banner.svg?v=3">
-  <source media="(prefers-color-scheme: light)" srcset="./priaansh-banner-light.svg?v=3">
-  <img src="./priaansh-banner.svg?v=3" alt="Priaansh Gupta — AI & Robotics Engineer" width="100%"/>
+  <source media="(prefers-color-scheme: dark)" srcset="./priaansh-banner.svg?v=5">
+  <source media="(prefers-color-scheme: light)" srcset="./priaansh-banner-light.svg?v=5">
+  <img src="./priaansh-banner.svg?v=5" alt="Priaansh Gupta — AI & Robotics Engineer" width="100%"/>
 </picture>
 
 </div>
 
 <br/>
 
-<table align="center" border="0">
+<table align="center" width="100%" border="0">
 <tr>
-<td width="38%" align="center" valign="middle">
+<td width="35%" align="center" valign="middle">
 
 <!-- ⚙️ Swinging Lanyard ID Card -->
-<img src="./priaansh-lanyard.svg?v=3" alt="Priaansh Gupta ID badge" width="330"/>
+<img src="./priaansh-lanyard.svg?v=5" alt="Priaansh Gupta ID badge" width="100%"/>
 
 </td>
-<td width="62%" valign="middle">
+<td width="65%" valign="middle">
 
 ### ⚙️ Featured Projects
 
-| 🤖 Project | 🛠️ Tech | 🎯 Impact |
-|:---|:---:|:---|
-| [CGS — Circuit Graphic Symphony](https://github.com/priaansh-gupta/CGS) | `Multimodal AI` `SPICE` | Text → schematics & netlists |
-| [SafeScan — Ingredient Scanner](https://github.com/priaansh-gupta/SafeScan) | `Mobile` `CV` `Health` | Harmful ingredient & allergen detection |
-| [CASTA — Counter-Drone Platform](https://github.com/priaansh-gupta/CASTA) | `YOLO` `PyTorch` `TensorRT` | Real-time drone detection & tracking |
-| [PetPal — AI Vet App](https://github.com/priaansh-gupta/PetPal) | `Flutter` `Gemini` `Firebase` | Voice/video AI vet consultations |
-| [FarmBot — Agri Robot Sim](https://github.com/priaansh-gupta/FarmBot) | `Webots` `ROS2` `6-DOF` | Omni-directional robot with arm control |
+| 🤖 Project & Impact | 🛠️ Tech |
+|:---|:---:|
+| [**CGS — Circuit Graphic Symphony**](https://github.com/priaansh-gupta/CGS)<br/><sub>Multimodal AI: Text → schematics & netlists</sub> | `Python` `SPICE` |
+| [**SafeScan — Ingredient Scanner**](https://github.com/priaansh-gupta/SafeScan)<br/><sub>Mobile CV: Harmful ingredient & allergen detection</sub> | `Flutter` `OpenCV` |
+| [**CASTA — Counter-Drone Platform**](https://github.com/priaansh-gupta/CASTA)<br/><sub>AI C-UAS: Real-time drone & trajectory tracking</sub> | `YOLO` `TensorRT` |
+| [**PetPal — AI Vet App**](https://github.com/priaansh-gupta/PetPal)<br/><sub>AI Consultations: Voice & video vet integration</sub> | `Gemini` `Firebase` |
+| [**FarmBot — Agri Robot Sim**](https://github.com/priaansh-gupta/FarmBot)<br/><sub>Robotics: Omni-directional robot with 6-DOF arm</sub> | `Webots` `ROS2` |
 
 <br/>
 
@@ -45,8 +45,8 @@
 
 ### 📊 GitHub Stats & Graphs
 
-<img src="./priaansh-stats.svg?v=3" alt="GitHub Stats" height="185"/>
-<img src="./priaansh-langs.svg?v=3" alt="Top Languages" height="185"/>
+<img src="./priaansh-stats.svg?v=5" alt="GitHub Stats" height="185"/>
+<img src="./priaansh-langs.svg?v=5" alt="Top Languages" height="185"/>
 
 <br/><br/>
 
@@ -60,7 +60,7 @@
 <br/><br/>
 
 <!-- 🏆 Trophies -->
-<img src="./priaansh-trophies.svg?v=3" alt="Trophies" width="95%"/>
+<img src="./priaansh-trophies.svg?v=5" alt="Trophies" width="95%"/>
 
 <br/><br/>
 
