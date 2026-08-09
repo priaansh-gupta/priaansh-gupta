@@ -5,6 +5,9 @@ import os
 
 def fetch_github_data(username):
     headers = {'User-Agent': 'Mozilla/5.0'}
+    token = os.environ.get('GITHUB_TOKEN')
+    if token:
+        headers['Authorization'] = f'Bearer {token}'
     
     # User info
     user_url = f'https://api.github.com/users/{username}'

@@ -1,11 +1,16 @@
 import urllib.request
 import json
 import random
+import os
 
 def fetch_real_contributions(username="priaansh-gupta"):
     url = f"https://github-contributions-api.jogruber.de/v4/{username}?y=last"
+    headers = {'User-Agent': 'Mozilla/5.0'}
+    token = os.environ.get('GITHUB_TOKEN')
+    if token:
+        headers['Authorization'] = f'Bearer {token}'
     try:
-        req = urllib.request.Request(url, headers={'User-Agent': 'Mozilla/5.0'})
+        req = urllib.request.Request(url, headers=headers)
         with urllib.request.urlopen(req, timeout=10) as resp:
             data = json.loads(resp.read().decode('utf-8'))
             return data.get('contributions', [])

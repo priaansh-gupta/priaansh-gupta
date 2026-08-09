@@ -2,7 +2,7 @@ name: Auto Update Profile Stats 🤖
 
 on:
   schedule:
-    - cron: "0 0 * * *"   # Runs daily at midnight
+    - cron: "0 */6 * * *"   # Runs automatically every 6 hours
   workflow_dispatch:       # Allows manual trigger from Actions tab
   push:
     branches:
@@ -24,6 +24,8 @@ jobs:
           python-version: "3.x"
 
       - name: Fetch & Update Stats
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
         run: |
           python scripts/update_stats.py
           python scripts/generate_snake_svg.py
