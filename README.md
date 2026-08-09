@@ -64,9 +64,9 @@
 
 <br/><br/>
 
-### 🐍 Contribution Eating &amp; Random Poop Loop 💩
+### ⚡ Watch the circuit trace my contributions 🐍
 
-<img src="./priaansh-snake.svg?v=2" alt="Contribution Snake Eat &amp; Random Poop Loop" width="95%"/>
+<img src="./priaansh-snake.svg?v=3" alt="Contribution circuit trace with poop loop" width="95%"/>
 
 <br/><br/>
 
