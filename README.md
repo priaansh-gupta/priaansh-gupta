@@ -66,7 +66,7 @@
 
 ### 🐍 Contribution Eating &amp; Random Poop Loop 💩
 
-<img src="./priaansh-snake.svg?v=1" alt="Contribution Snake Eat &amp; Random Poop Loop" width="95%"/>
+<img src="./priaansh-snake.svg?v=2" alt="Contribution Snake Eat &amp; Random Poop Loop" width="95%"/>
 
 <br/><br/>
 
