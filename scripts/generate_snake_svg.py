@@ -33,14 +33,14 @@ def generate_snake_svg():
     height = 165
     dur = 18.0 # seconds loop
 
-    bg_empty = "#161b22"
-    # Cyber theme contribution levels 0..4
+    bg_empty = "#0d1220"
+    # Cyber-Neon Robotic Palette matching Banner, Lanyard & Stats cards
     color_levels = {
-        0: "#161b22",
-        1: "#0e4429",
-        2: "#006d32",
-        3: "#26a641",
-        4: "#39d353"
+        0: "#0d1220",
+        1: "#1a4a7a", # dark blue accent
+        2: "#3b82f6", # electric blue
+        3: "#00f0ff", # glowing cyan
+        4: "#22d65e"  # neon green
     }
 
     # Map raw_days to grid (52 weeks x 7 days)
@@ -117,7 +117,7 @@ def generate_snake_svg():
     svg.append(f'<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 {width} {height}" width="100%" height="{height}">')
     svg.append('<style>')
     svg.append('  .bg { fill: #0a0e17; rx: 12px; stroke: #1a4a7a; stroke-width: 1.5; }')
-    svg.append('  .lbl { font-family: SFMono-Regular,Consolas,monospace; font-size: 9px; fill: #656d76; }')
+    svg.append('  .lbl { font-family: SFMono-Regular,Consolas,monospace; font-size: 9px; fill: #8b949e; font-weight: bold; }')
     svg.append('</style>')
 
     # Background rect
@@ -144,6 +144,7 @@ def generate_snake_svg():
             y = offset_y + r * (cell_size + gap)
             cell_info = grid_cells.get((c, r), {'color': bg_empty})
             init_color = cell_info['color']
+            border_attr = ' stroke="#1a4a7a" stroke-width="0.5"' if cell_info['level'] == 0 else ''
 
             if (c, r) in cell_anim_data:
                 anim = cell_anim_data[(c, r)]
@@ -161,17 +162,16 @@ def generate_snake_svg():
                     key_times = f"0; {k_poop:.3f}; {k_eat:.3f}; 1"
                     values = f"{p_color}; {p_color}; {bg_empty}; {bg_empty}"
 
-                svg.append(f'  <rect x="{x}" y="{y}" width="{cell_size}" height="{cell_size}" rx="2" fill="{init_color}">')
+                svg.append(f'  <rect x="{x}" y="{y}" width="{cell_size}" height="{cell_size}" rx="2" fill="{init_color}"{border_attr}>')
                 svg.append(f'    <animate attributeName="fill" values="{values}" keyTimes="{key_times}" dur="{dur}s" repeatCount="indefinite"/>')
                 svg.append(f'  </rect>')
             else:
-                svg.append(f'  <rect x="{x}" y="{y}" width="{cell_size}" height="{cell_size}" rx="2" fill="{init_color}"/>')
+                svg.append(f'  <rect x="{x}" y="{y}" width="{cell_size}" height="{cell_size}" rx="2" fill="{init_color}"{border_attr}/>')
 
-    # Snake Motion (CORRECTED DIRECTION: Head leads, body segments TRAIL behind!)
-    # Head at begin=0s
+    # Snake Motion (Head leads, body segments TRAIL behind in Cyber-Neon colors)
     svg.append(f'  <g>')
     # Snake Head (glowing cyan circle, r=5.5)
-    svg.append(f'    <circle r="5.5" fill="#00f0ff" filter="drop-shadow(0 0 5px #00f0ff)">')
+    svg.append(f'    <circle r="5.5" fill="#00f0ff" filter="drop-shadow(0 0 6px #00f0ff)">')
     svg.append(f'      <animateMotion path="{path_d}" dur="{dur}s" repeatCount="indefinite"/>')
     svg.append(f'    </circle>')
     # Snake Eye (tiny dark dot on head)
@@ -179,12 +179,10 @@ def generate_snake_svg():
     svg.append(f'      <animateMotion path="{path_d}" dur="{dur}s" repeatCount="indefinite"/>')
     svg.append(f'    </circle>')
 
-    # Body segments trailing behind head
-    # To trail 0.15s, 0.30s, 0.45s, 0.60s behind head during a 18.0s loop:
-    # begin = -(dur - delay)
+    # Body segments trailing behind head in Cyber-Neon gradient colors
     body_offsets = [0.18, 0.36, 0.54, 0.72]
     body_radii = [4.8, 4.2, 3.6, 3.0]
-    body_colors = ["#38bdf8", "#22d65e", "#4ade80", "#f59e0b"]
+    body_colors = ["#3b82f6", "#22d65e", "#f59e0b", "#a855f7"]
 
     for i, offset in enumerate(body_offsets):
         begin_val = f"-{dur - offset:.2f}s"
@@ -196,14 +194,14 @@ def generate_snake_svg():
 
     svg.append(f'  </g>')
 
-    # Legend at bottom right
+    # Legend at bottom right in Cyber-Neon palette
     svg.append('  <g class="lbl" transform="translate(520, 150)">')
     svg.append('    <text x="0" y="0">Less</text>')
-    svg.append('    <rect x="28" y="-8" width="9" height="9" rx="2" fill="#161b22"/>')
-    svg.append('    <rect x="40" y="-8" width="9" height="9" rx="2" fill="#0e4429"/>')
-    svg.append('    <rect x="52" y="-8" width="9" height="9" rx="2" fill="#006d32"/>')
-    svg.append('    <rect x="64" y="-8" width="9" height="9" rx="2" fill="#26a641"/>')
-    svg.append('    <rect x="76" y="-8" width="9" height="9" rx="2" fill="#39d353"/>')
+    svg.append('    <rect x="28" y="-8" width="9" height="9" rx="2" fill="#0d1220" stroke="#1a4a7a" stroke-width="0.5"/>')
+    svg.append('    <rect x="40" y="-8" width="9" height="9" rx="2" fill="#1a4a7a"/>')
+    svg.append('    <rect x="52" y="-8" width="9" height="9" rx="2" fill="#3b82f6"/>')
+    svg.append('    <rect x="64" y="-8" width="9" height="9" rx="2" fill="#00f0ff"/>')
+    svg.append('    <rect x="76" y="-8" width="9" height="9" rx="2" fill="#22d65e"/>')
     svg.append('    <text x="90" y="0">More 💩</text>')
     svg.append('  </g>')
 
@@ -211,7 +209,7 @@ def generate_snake_svg():
 
     with open('priaansh-snake.svg', 'w', encoding='utf-8') as f:
         f.write("\n".join(svg))
-    print("Generated Platane-styled priaansh-snake.svg with forward snake motion & poop loop!")
+    print("Generated Cyber-Neon styled priaansh-snake.svg successfully!")
 
 if __name__ == "__main__":
     generate_snake_svg()

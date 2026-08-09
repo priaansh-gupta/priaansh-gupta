@@ -66,7 +66,7 @@
 
 ### ⚡ Watch the circuit trace my contributions 🐍
 
-<img src="./priaansh-snake.svg?v=3" alt="Contribution circuit trace with poop loop" width="95%"/>
+<img src="./priaansh-snake.svg?v=4" alt="Contribution circuit trace with poop loop" width="95%"/>
 
 <br/><br/>
 
