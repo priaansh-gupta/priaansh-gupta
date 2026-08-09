@@ -2,9 +2,9 @@
 
 <!-- ✨ Animated Banner ✨ -->
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="./priaansh-banner.svg?v=2">
-  <source media="(prefers-color-scheme: light)" srcset="./priaansh-banner-light.svg?v=2">
-  <img src="./priaansh-banner.svg?v=2" alt="Priaansh Gupta — AI & Robotics Engineer" width="100%"/>
+  <source media="(prefers-color-scheme: dark)" srcset="./priaansh-banner.svg?v=3">
+  <source media="(prefers-color-scheme: light)" srcset="./priaansh-banner-light.svg?v=3">
+  <img src="./priaansh-banner.svg?v=3" alt="Priaansh Gupta — AI & Robotics Engineer" width="100%"/>
 </picture>
 
 </div>
@@ -16,7 +16,7 @@
 <td width="38%" align="center" valign="middle">
 
 <!-- ⚙️ Swinging Lanyard ID Card -->
-<img src="./priaansh-lanyard.svg?v=2" alt="Priaansh Gupta ID badge" width="330"/>
+<img src="./priaansh-lanyard.svg?v=3" alt="Priaansh Gupta ID badge" width="330"/>
 
 </td>
 <td width="62%" valign="middle">
@@ -45,8 +45,8 @@
 
 ### 📊 GitHub Stats & Graphs
 
-<img src="https://github-readme-stats.vercel.app/api?username=priaansh-gupta&show_icons=true&theme=transparent&title_color=00f0ff&text_color=e6edf3&icon_color=22d65e&border_color=1a4a7a&bg_color=0a0e17&hide_border=false" alt="GitHub Stats" height="185"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=priaansh-gupta&layout=compact&theme=transparent&title_color=00f0ff&text_color=e6edf3&border_color=1a4a7a&bg_color=0a0e17" alt="Top Languages" height="185"/>
+<img src="./priaansh-stats.svg?v=3" alt="GitHub Stats" height="185"/>
+<img src="./priaansh-langs.svg?v=3" alt="Top Languages" height="185"/>
 
 <br/><br/>
 
@@ -60,7 +60,7 @@
 <br/><br/>
 
 <!-- 🏆 Trophies -->
-<img src="https://github-profile-trophy.vercel.app/?username=priaansh-gupta&theme=darkhub&no-frame=true&no-bg=true&column=6&margin-w=15" alt="Trophies" width="95%"/>
+<img src="./priaansh-trophies.svg?v=3" alt="Trophies" width="95%"/>
 
 <br/><br/>
 
