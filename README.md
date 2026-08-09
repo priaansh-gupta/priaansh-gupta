@@ -1,56 +1,89 @@
 <div align="center">
 
-# ✋ Hey this Priaansh Gupta
-### Engineer · Founder · Builder · Creator | Robotics, AI & Automation Architect
-**Architecting at the intersection of Hardware, Mechanics, and Intelligence.**
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/priaansh-gupta)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/priaansh-gupta)
-[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://priaansh.vercel.app/)
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/priaansh_5707)
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:priaanshgupta@gmail.com)
+<!-- ✨ Animated Banner ✨ -->
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="./priaansh-banner.svg?v=2">
+  <source media="(prefers-color-scheme: light)" srcset="./priaansh-banner-light.svg?v=2">
+  <img src="./priaansh-banner.svg?v=2" alt="Priaansh Gupta — AI & Robotics Engineer" width="100%"/>
+</picture>
 
 </div>
 
----
+<br/>
 
-### 💡 Executive Summary
-I am an engineer and founder who builds at the edge of what’s possible. I treat the world as a laboratory, specializing in solving high-stakes technical problems through robotics, AI, and automation. If a solution doesn't exist, I architect it. If a skill is missing, I acquire it. I am driven by the obsession to build the next generation of autonomous systems.
+<table align="center" border="0">
+<tr>
+<td width="38%" align="center" valign="middle">
 
----
+<!-- ⚙️ Swinging Lanyard ID Card -->
+<img src="./priaansh-lanyard.svg?v=2" alt="Priaansh Gupta ID badge" width="330"/>
 
-### ⚙️ Technical Architecture & Core Competencies
+</td>
+<td width="62%" valign="middle">
 
-**Robotics & Hardware Engineering**
-* **Autonomous Systems & Control:** ROS/ROS2, SLAM, Sensor Fusion, custom drone propulsion integration, and Micromouse algorithms.
-* **Embedded & Edge Computing:** RTOS, physical computing with microcontrollers (ESP8266/ESP32, Raspberry Pi), and Edge-AI execution (Tiny LLMs).
-* **Hardware Design & Simulation:** PCB Design, 3D Modeling, CAD, Industrial IoT (IIoT), and hardware-in-the-loop testing (Wokwi, Proteus).
+### ⚙️ Featured Projects
 
-**Artificial Intelligence & Automation**
-* **Agentic AI & LLMs:** Architecting reasoning systems, RAG & CAG frameworks, LangChain, LangGraph, CrewAI, and multimodal EDA models.
-* **Computer Vision & ML:** PyTorch, TensorFlow, YOLO architectures (v12x for C-UAS), OpenCV, ONNX/TensorRT, and defect detection pipelines.
-* **Data & Signal Intelligence:** NLP bots, MATLAB & Simulink, high-speed signal processing, and real-time tactile data translation.
+| 🤖 Project | 🛠️ Tech | 🎯 Impact |
+|:---|:---:|:---|
+| [CGS — Circuit Graphic Symphony](https://github.com/priaansh-gupta/CGS) | `Multimodal AI` `SPICE` | Text → schematics & netlists |
+| [SafeScan — Ingredient Scanner](https://github.com/priaansh-gupta/SafeScan) | `Mobile` `CV` `Health` | Harmful ingredient & allergen detection |
+| [CASTA — Counter-Drone Platform](https://github.com/priaansh-gupta/CASTA) | `YOLO` `PyTorch` `TensorRT` | Real-time drone detection & tracking |
+| [PetPal — AI Vet App](https://github.com/priaansh-gupta/PetPal) | `Flutter` `Gemini` `Firebase` | Voice/video AI vet consultations |
+| [FarmBot — Agri Robot Sim](https://github.com/priaansh-gupta/FarmBot) | `Webots` `ROS2` `6-DOF` | Omni-directional robot with arm control |
 
-**Software Architecture & Infrastructure**
-* **Full-Stack Ecosystems:** C/C++, Python, TypeScript/JavaScript, Next.js, Node.js, React Native, and Flutter.
-* **DevOps & Cloud:** AWS/GCP, Docker, Kubernetes, MIOps, FastAPI, and robust database management (SQL/NoSQL).
-* **Decentralized Systems:** Web3 infrastructure, DAO governance, and utility token deployment.
+<br/>
 
----
+> ⚙️ *"A missing skill has never stopped a build. I specialize in figuring it out."*
 
-### 📊 Performance Metrics
+</td>
+</tr>
+</table>
 
-<div align="center">
-
-
-**Contribution Graph**
-![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=priaansh-gupta&theme=tokyo-night&area=true&hide_border=true)
-</div>
-
----
+<br/>
 
 <div align="center">
 
-*"A missing skill has never stopped a build. I specialize in figuring it out."*
+### 📊 GitHub Stats & Graphs
+
+<img src="https://github-readme-stats.vercel.app/api?username=priaansh-gupta&show_icons=true&theme=transparent&title_color=00f0ff&text_color=e6edf3&icon_color=22d65e&border_color=1a4a7a&bg_color=0a0e17&hide_border=false" alt="GitHub Stats" height="185"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=priaansh-gupta&layout=compact&theme=transparent&title_color=00f0ff&text_color=e6edf3&border_color=1a4a7a&bg_color=0a0e17" alt="Top Languages" height="185"/>
+
+<br/><br/>
+
+<img src="https://streak-stats.demolab.com?user=priaansh-gupta&theme=transparent&hide_border=false&background=0a0e17&ring=00f0ff&fire=22d65e&currStreakLabel=3b82f6&border=1a4a7a" alt="GitHub Streak"/>
+
+<br/><br/>
+
+<!-- 📈 Contribution Activity Graph -->
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=priaansh-gupta&bg_color=0a0e17&color=00f0ff&line=3b82f6&point=22d65e&area=true&area_color=3b82f6&hide_border=true&custom_title=Contribution%20Graph%20%E2%9A%A1" alt="Contribution graph" width="95%"/>
+
+<br/><br/>
+
+<!-- 🏆 Trophies -->
+<img src="https://github-profile-trophy.vercel.app/?username=priaansh-gupta&theme=darkhub&no-frame=true&no-bg=true&column=6&margin-w=15" alt="Trophies" width="95%"/>
+
+<br/><br/>
+
+### ⚡ Watch the circuit trace my contributions
+
+<img src="https://raw.githubusercontent.com/priaansh-gupta/priaansh-gupta/output/github-snake-cyber.svg" alt="Contribution circuit trace"/>
+
+<br/><br/>
+
+### 📫 Let's Connect
+
+<a href="mailto:priaanshgupta@gmail.com"><img src="https://img.shields.io/badge/Email-00f0ff?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
+<a href="https://github.com/priaansh-gupta"><img src="https://img.shields.io/badge/GitHub-3b82f6?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/></a>
+<a href="https://linkedin.com/in/priaansh-gupta"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+<a href="https://priaansh.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-22d65e?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio"/></a>
+<a href="https://instagram.com/priaansh_5707"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/></a>
+
+<br/><br/>
+
+<img src="https://komarev.com/ghpvc/?username=priaansh-gupta&color=00f0ff&style=for-the-badge&label=PROFILE+VIEWS" alt="Profile views"/>
+
+<br/><br/>
+
+*⚙️ Always building, always shipping.* ⚡
 
 </div>
