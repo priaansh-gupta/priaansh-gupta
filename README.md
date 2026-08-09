@@ -16,7 +16,7 @@
 <td width="38%" align="center" valign="middle">
 
 <!-- ⚙️ Swinging Lanyard ID Card -->
-<img src="./priaansh-lanyard.svg?v=6" alt="Priaansh Gupta ID badge" width="330"/>
+<img src="./priaansh-lanyard.svg?v=7" alt="Priaansh Gupta ID badge" width="330"/>
 
 </td>
 <td width="62%" valign="middle">

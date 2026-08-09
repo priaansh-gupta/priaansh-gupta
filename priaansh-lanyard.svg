@@ -59,7 +59,7 @@ text{font-family:'SFMono-Regular',Consolas,'Liberation Mono',Menlo,monospace}
     <path d="M191 -6 L229 -6 L226 236 L194 236 Z" fill="url(#strapg)"/>
     <line x1="196" y1="0" x2="198.5" y2="234" stroke="#fff" stroke-opacity=".55" stroke-width="1" stroke-dasharray="4 3"/>
     <line x1="224" y1="0" x2="221.5" y2="234" stroke="#fff" stroke-opacity=".55" stroke-width="1" stroke-dasharray="4 3"/>
-    <text x="0" y="0" font-size="10.5" font-weight="bold" fill="#fff" opacity=".92" letter-spacing="2" transform="translate(214,18) rotate(90)">PRIAANSH.DEV ⚙ BUILD ⚙ PRIAANSH.DEV</text>
+    <text x="0" y="0" font-size="11" font-weight="bold" fill="#fff" opacity=".95" letter-spacing="2.5" transform="translate(206,12) rotate(90)">PRIAANSH.DEV ⚙ CODE ⚙ PRIAANSH.DEV</text>
   </g>
 
   <!-- Clasp + ring -->
