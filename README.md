@@ -11,25 +11,25 @@
 
 <br/>
 
-<table align="center" border="0">
+<table align="center" width="100%" border="0">
 <tr>
-<td width="38%" align="center" valign="middle">
+<td width="35%" align="center" valign="middle">
 
-<!-- ⚙️ Swinging Lanyard ID Card -->
-<img src="./priaansh-lanyard.svg?v=7" alt="Priaansh Gupta ID badge" width="330"/>
+<!-- ⚙️ Swinging Lanyard ID Card (React Bits style, pure SVG) -->
+<img src="./priaansh-lanyard.svg?v=8" alt="Priaansh Gupta ID badge" width="100%"/>
 
 </td>
-<td width="62%" valign="middle">
+<td width="65%" valign="middle">
 
 ### ⚙️ Featured Projects
 
 | 🤖 Project | 🛠️ Tech | 🎯 Impact |
 |:---|:---:|:---|
-| [CGS — Circuit Graphic Symphony](https://github.com/priaansh-gupta/CGS) | `Multimodal AI` `SPICE` | Text → schematics & netlists |
-| [SafeScan — Ingredient Scanner](https://github.com/priaansh-gupta/SafeScan) | `Mobile` `CV` `Health` | Harmful ingredient & allergen detection |
-| [CASTA — Counter-Drone Platform](https://github.com/priaansh-gupta/CASTA) | `YOLO` `PyTorch` `TensorRT` | Real-time drone detection & tracking |
-| [PetPal — AI Vet App](https://github.com/priaansh-gupta/PetPal) | `Flutter` `Gemini` `Firebase` | Voice/video AI vet consultations |
-| [FarmBot — Agri Robot Sim](https://github.com/priaansh-gupta/FarmBot) | `Webots` `ROS2` `6-DOF` | Omni-directional robot with arm control |
+| [CGS — Circuit Graphic Symphony](https://github.com/priaansh-gupta/CGS) | `Python` `SPICE` | Text → schematics &amp; netlists |
+| [SafeScan — Ingredient Scanner](https://github.com/priaansh-gupta/SafeScan) | `Flutter` `CV` | Harmful ingredient scanner |
+| [CASTA — Counter-Drone Platform](https://github.com/priaansh-gupta/CASTA) | `YOLO` `TensorRT` | Real-time C-UAS tracking |
+| [PetPal — AI Vet App](https://github.com/priaansh-gupta/PetPal) | `Gemini` `Firebase` | Voice &amp; video AI consultations |
+| [FarmBot — Agri Robot Sim](https://github.com/priaansh-gupta/FarmBot) | `Webots` `ROS2` | 6-DOF omni-directional robot |
 
 <br/>
 
