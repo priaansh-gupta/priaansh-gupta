@@ -64,9 +64,9 @@
 
 <br/><br/>
 
-### ⚡ Watch the circuit trace my contributions
+### 🐍 Contribution Eating &amp; Random Poop Loop 💩
 
-<img src="https://raw.githubusercontent.com/priaansh-gupta/priaansh-gupta/output/github-snake-cyber.svg" alt="Contribution circuit trace"/>
+<img src="./priaansh-snake.svg?v=1" alt="Contribution Snake Eat &amp; Random Poop Loop" width="95%"/>
 
 <br/><br/>
 
