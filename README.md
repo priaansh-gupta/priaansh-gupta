@@ -2,9 +2,9 @@
 
 <!-- ✨ Animated Banner ✨ -->
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="./priaansh-banner.svg?v=6">
-  <source media="(prefers-color-scheme: light)" srcset="./priaansh-banner-light.svg?v=6">
-  <img src="./priaansh-banner.svg?v=6" alt="Priaansh Gupta — AI & Robotics Engineer" width="100%"/>
+  <source media="(prefers-color-scheme: dark)" srcset="./priaansh-banner.svg?v=9">
+  <source media="(prefers-color-scheme: light)" srcset="./priaansh-banner-light.svg?v=9">
+  <img src="./priaansh-banner.svg?v=9" alt="Priaansh Gupta — AI & Robotics Engineer" width="100%"/>
 </picture>
 
 </div>
@@ -13,13 +13,13 @@
 
 <table align="center" width="100%" border="0">
 <tr>
-<td width="35%" align="center" valign="middle">
+<td width="40%" align="center" valign="middle">
 
 <!-- ⚙️ Swinging Lanyard ID Card (React Bits style, pure SVG) -->
-<img src="./priaansh-lanyard.svg?v=8" alt="Priaansh Gupta ID badge" width="100%"/>
+<img src="./priaansh-lanyard.svg?v=9" alt="Priaansh Gupta ID badge" width="100%"/>
 
 </td>
-<td width="65%" valign="middle">
+<td width="60%" valign="middle">
 
 ### ⚙️ Featured Projects
 
