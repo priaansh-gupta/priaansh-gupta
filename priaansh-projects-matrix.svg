@@ -1,0 +1,168 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1280 680" width="100%" height="680">
+<style>
+  .bg { fill: #0a0e17; rx: 16px; stroke: #1a4a7a; stroke-width: 1.5; }
+  .hdr { font-family: SFMono-Regular,Consolas,monospace; font-size: 15px; font-weight: bold; fill: #e6edf3; }
+  .subhdr { font-family: SFMono-Regular,Consolas,monospace; font-size: 11px; fill: #8b949e; }
+  .cat-title { font-family: SFMono-Regular,Consolas,monospace; font-size: 12px; font-weight: bold; }
+  .p-title { font-family: SFMono-Regular,Consolas,monospace; font-size: 11px; font-weight: bold; fill: #ffffff; }
+  .p-desc { font-family: SFMono-Regular,Consolas,monospace; font-size: 9.5px; fill: #8b949e; }
+  .pill-bg { fill: #1c2536; rx: 4px; }
+  .pill-txt { font-family: SFMono-Regular,Consolas,monospace; font-size: 8.5px; fill: #00f0ff; font-weight: bold; }
+</style>
+  <rect class="bg" width="1280" height="680" x="0" y="0"/>
+  <text x="40" y="36" class="hdr">🚀 15 PROJECTS DEEPTECH ECOSYSTEM MATRIX</text>
+  <text x="1240" y="36" class="subhdr" text-anchor="end">PRIAANSH GUPTA • SILICON TO SOFTWARE ⚡</text>
+  <line x1="40" y1="48" x2="1240" y2="48" stroke="#1a4a7a" stroke-width="1.2"/>
+  <rect x="40" y="70" width="380" height="270" rx="10" fill="#0d1220" stroke="#00f0ff" stroke-width="1.2" opacity="0.95"/>
+  <text x="54" y="94" class="cat-title" fill="#00f0ff">🤖 Autonomous Robotics & Hardware</text>
+  <line x1="54" y1="104" x2="406" y2="104" stroke="#00f0ff" stroke-opacity="0.3" stroke-width="1"/>
+    <g transform="translate(54, 122)">
+      <circle cx="4" cy="-4" r="3" fill="#00f0ff"/>
+      <text x="14" y="0" class="p-title">FarmBot</text>
+      <text x="14" y="14" class="p-desc">Webots agri omni-directional robot with 6-DOF arm</text>
+      <rect x="14" y="20" width="34" height="14" class="pill-bg"/>
+      <text x="31.0" y="30" class="pill-txt" text-anchor="middle">ROS2</text>
+      <rect x="54" y="20" width="46" height="14" class="pill-bg"/>
+      <text x="77.0" y="30" class="pill-txt" text-anchor="middle">Webots</text>
+    </g>
+    <g transform="translate(54, 178)">
+      <circle cx="4" cy="-4" r="3" fill="#00f0ff"/>
+      <text x="14" y="0" class="p-title">Drone-Powered Race Cars</text>
+      <text x="14" y="14" class="p-desc">Repurposed drone propulsion for high-speed RC cars</text>
+      <rect x="14" y="20" width="58" height="14" class="pill-bg"/>
+      <text x="43.0" y="30" class="pill-txt" text-anchor="middle">Hardware</text>
+      <rect x="78" y="20" width="46" height="14" class="pill-bg"/>
+      <text x="101.0" y="30" class="pill-txt" text-anchor="middle">Motors</text>
+    </g>
+    <g transform="translate(54, 234)">
+      <circle cx="4" cy="-4" r="3" fill="#00f0ff"/>
+      <text x="14" y="0" class="p-title">Autonomous Edge Devices</text>
+      <text x="14" y="14" class="p-desc">Voice obstacle car & SLAM Micromouse</text>
+      <rect x="14" y="20" width="34" height="14" class="pill-bg"/>
+      <text x="31.0" y="30" class="pill-txt" text-anchor="middle">SLAM</text>
+      <rect x="54" y="20" width="52" height="14" class="pill-bg"/>
+      <text x="80.0" y="30" class="pill-txt" text-anchor="middle">Edge AI</text>
+    </g>
+  <rect x="450" y="70" width="380" height="270" rx="10" fill="#0d1220" stroke="#22d65e" stroke-width="1.2" opacity="0.95"/>
+  <text x="464" y="94" class="cat-title" fill="#22d65e">👁️ Computer Vision & Edge AI</text>
+  <line x1="464" y1="104" x2="816" y2="104" stroke="#22d65e" stroke-opacity="0.3" stroke-width="1"/>
+    <g transform="translate(464, 122)">
+      <circle cx="4" cy="-4" r="3" fill="#22d65e"/>
+      <text x="14" y="0" class="p-title">CASTA</text>
+      <text x="14" y="14" class="p-desc">Counter-Drone C-UAS real-time drone & trajectory tracking</text>
+      <rect x="14" y="20" width="34" height="14" class="pill-bg"/>
+      <text x="31.0" y="30" class="pill-txt" text-anchor="middle">YOLO</text>
+      <rect x="54" y="20" width="58" height="14" class="pill-bg"/>
+      <text x="83.0" y="30" class="pill-txt" text-anchor="middle">TensorRT</text>
+    </g>
+    <g transform="translate(464, 178)">
+      <circle cx="4" cy="-4" r="3" fill="#22d65e"/>
+      <text x="14" y="0" class="p-title">Fabguard-AI</text>
+      <text x="14" y="14" class="p-desc">Real-time SEM wafer fabrication defect detection</text>
+      <rect x="14" y="20" width="22" height="14" class="pill-bg"/>
+      <text x="25.0" y="30" class="pill-txt" text-anchor="middle">CV</text>
+      <rect x="42" y="20" width="52" height="14" class="pill-bg"/>
+      <text x="68.0" y="30" class="pill-txt" text-anchor="middle">PyTorch</text>
+    </g>
+    <g transform="translate(464, 234)">
+      <circle cx="4" cy="-4" r="3" fill="#22d65e"/>
+      <text x="14" y="0" class="p-title">SafeScan</text>
+      <text x="14" y="14" class="p-desc">Mobile health app identifying harmful ingredients & allergens</text>
+      <rect x="14" y="20" width="52" height="14" class="pill-bg"/>
+      <text x="40.0" y="30" class="pill-txt" text-anchor="middle">Flutter</text>
+      <rect x="72" y="20" width="22" height="14" class="pill-bg"/>
+      <text x="83.0" y="30" class="pill-txt" text-anchor="middle">CV</text>
+    </g>
+  <rect x="860" y="70" width="380" height="270" rx="10" fill="#0d1220" stroke="#f59e0b" stroke-width="1.2" opacity="0.95"/>
+  <text x="874" y="94" class="cat-title" fill="#f59e0b">⚡ Hardware, Circuits & IoT</text>
+  <line x1="874" y1="104" x2="1226" y2="104" stroke="#f59e0b" stroke-opacity="0.3" stroke-width="1"/>
+    <g transform="translate(874, 122)">
+      <circle cx="4" cy="-4" r="3" fill="#f59e0b"/>
+      <text x="14" y="0" class="p-title">CGS (Circuit Graphic Symphony)</text>
+      <text x="14" y="14" class="p-desc">Text → schematics & SPICE netlists framework</text>
+      <rect x="14" y="20" width="70" height="14" class="pill-bg"/>
+      <text x="49.0" y="30" class="pill-txt" text-anchor="middle">JavaScript</text>
+      <rect x="90" y="20" width="40" height="14" class="pill-bg"/>
+      <text x="110.0" y="30" class="pill-txt" text-anchor="middle">SPICE</text>
+    </g>
+    <g transform="translate(874, 178)">
+      <circle cx="4" cy="-4" r="3" fill="#f59e0b"/>
+      <text x="14" y="0" class="p-title">Smart Medical Scale</text>
+      <text x="14" y="14" class="p-desc">IoT healthcare load cell & HX711 patient data device</text>
+      <rect x="14" y="20" width="28" height="14" class="pill-bg"/>
+      <text x="28.0" y="30" class="pill-txt" text-anchor="middle">IoT</text>
+      <rect x="48" y="20" width="40" height="14" class="pill-bg"/>
+      <text x="68.0" y="30" class="pill-txt" text-anchor="middle">HX711</text>
+    </g>
+  <rect x="40" y="360" width="790" height="290" rx="10" fill="#0d1220" stroke="#3b82f6" stroke-width="1.2" opacity="0.95"/>
+  <text x="54" y="384" class="cat-title" fill="#3b82f6">🧠 Multimodal AI, LLMs & Assistants</text>
+  <line x1="54" y1="394" x2="816" y2="394" stroke="#3b82f6" stroke-opacity="0.3" stroke-width="1"/>
+    <g transform="translate(54, 412)">
+      <circle cx="4" cy="-4" r="3" fill="#3b82f6"/>
+      <text x="14" y="0" class="p-title">PetPal</text>
+      <text x="14" y="14" class="p-desc">Dog health voice/video AI vet consultations</text>
+      <rect x="14" y="20" width="52" height="14" class="pill-bg"/>
+      <text x="40.0" y="30" class="pill-txt" text-anchor="middle">Flutter</text>
+      <rect x="72" y="20" width="46" height="14" class="pill-bg"/>
+      <text x="95.0" y="30" class="pill-txt" text-anchor="middle">Gemini</text>
+      <rect x="124" y="20" width="58" height="14" class="pill-bg"/>
+      <text x="153.0" y="30" class="pill-txt" text-anchor="middle">Firebase</text>
+    </g>
+    <g transform="translate(54, 468)">
+      <circle cx="4" cy="-4" r="3" fill="#3b82f6"/>
+      <text x="14" y="0" class="p-title">Hapticus</text>
+      <text x="14" y="14" class="p-desc">Digital text & PDF to tactile Braille pipeline</text>
+      <rect x="14" y="20" width="46" height="14" class="pill-bg"/>
+      <text x="37.0" y="30" class="pill-txt" text-anchor="middle">Python</text>
+      <rect x="66" y="20" width="28" height="14" class="pill-bg"/>
+      <text x="80.0" y="30" class="pill-txt" text-anchor="middle">NLP</text>
+    </g>
+    <g transform="translate(54, 524)">
+      <circle cx="4" cy="-4" r="3" fill="#3b82f6"/>
+      <text x="14" y="0" class="p-title">PostMortemAI</text>
+      <text x="14" y="14" class="p-desc">AI technical audit report generator from multiple POVs</text>
+      <rect x="14" y="20" width="28" height="14" class="pill-bg"/>
+      <text x="28.0" y="30" class="pill-txt" text-anchor="middle">LLM</text>
+      <rect x="48" y="20" width="40" height="14" class="pill-bg"/>
+      <text x="68.0" y="30" class="pill-txt" text-anchor="middle">Audit</text>
+    </g>
+    <g transform="translate(54, 580)">
+      <circle cx="4" cy="-4" r="3" fill="#3b82f6"/>
+      <text x="14" y="0" class="p-title">Tenderlytics</text>
+      <text x="14" y="14" class="p-desc">AI bid qualification automating legal tender parsing</text>
+      <rect x="14" y="20" width="28" height="14" class="pill-bg"/>
+      <text x="28.0" y="30" class="pill-txt" text-anchor="middle">NLP</text>
+      <rect x="48" y="20" width="64" height="14" class="pill-bg"/>
+      <text x="80.0" y="30" class="pill-txt" text-anchor="middle">LegalTech</text>
+    </g>
+    <g transform="translate(54, 636)">
+      <circle cx="4" cy="-4" r="3" fill="#3b82f6"/>
+      <text x="14" y="0" class="p-title">LendBuddy</text>
+      <text x="14" y="14" class="p-desc">Multilingual n8n loan advisor on WhatsApp</text>
+      <rect x="14" y="20" width="28" height="14" class="pill-bg"/>
+      <text x="28.0" y="30" class="pill-txt" text-anchor="middle">n8n</text>
+      <rect x="48" y="20" width="58" height="14" class="pill-bg"/>
+      <text x="77.0" y="30" class="pill-txt" text-anchor="middle">WhatsApp</text>
+    </g>
+  <rect x="860" y="360" width="380" height="290" rx="10" fill="#0d1220" stroke="#a855f7" stroke-width="1.2" opacity="0.95"/>
+  <text x="874" y="384" class="cat-title" fill="#a855f7">⚙️ Platforms, Tools & Web3</text>
+  <line x1="874" y1="394" x2="1226" y2="394" stroke="#a855f7" stroke-opacity="0.3" stroke-width="1"/>
+    <g transform="translate(874, 412)">
+      <circle cx="4" cy="-4" r="3" fill="#a855f7"/>
+      <text x="14" y="0" class="p-title">Klytik</text>
+      <text x="14" y="14" class="p-desc">Freelance gig lead generator Rust Chrome extension</text>
+      <rect x="14" y="20" width="34" height="14" class="pill-bg"/>
+      <text x="31.0" y="30" class="pill-txt" text-anchor="middle">Rust</text>
+      <rect x="54" y="20" width="70" height="14" class="pill-bg"/>
+      <text x="89.0" y="30" class="pill-txt" text-anchor="middle">Chrome Ext</text>
+    </g>
+    <g transform="translate(874, 468)">
+      <circle cx="4" cy="-4" r="3" fill="#a855f7"/>
+      <text x="14" y="0" class="p-title">Fundify</text>
+      <text x="14" y="14" class="p-desc">DeFi crowdfunding platform with DAO governance</text>
+      <rect x="14" y="20" width="34" height="14" class="pill-bg"/>
+      <text x="31.0" y="30" class="pill-txt" text-anchor="middle">DeFi</text>
+      <rect x="54" y="20" width="28" height="14" class="pill-bg"/>
+      <text x="68.0" y="30" class="pill-txt" text-anchor="middle">DAO</text>
+    </g>
+</svg>

@@ -39,6 +39,11 @@
 </tr>
 </table>
 
+<br/><br/>
+
+<!-- 🌐 15 Projects DeepTech Ecosystem Matrix -->
+<img src="./priaansh-projects-matrix.svg?v=1" alt="15 Projects DeepTech Ecosystem Matrix" width="100%"/>
+
 <br/>
 
 <div align="center">
@@ -64,9 +69,9 @@
 
 <br/><br/>
 
-### ⚡ Watch the circuit trace my contributions 🐍
+### 🏎️ Autonomous Cyber Rover — Commit Checkpoint Track 🏁
 
-<img src="./priaansh-snake.svg?v=4" alt="Contribution circuit trace with poop loop" width="95%"/>
+<img src="./priaansh-car-track.svg?v=1" alt="Autonomous Cyber Rover Commit Checkpoint Track" width="95%"/>
 
 <br/><br/>
 
