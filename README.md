@@ -73,7 +73,7 @@
 
 ### 🏎️ Autonomous Cyber Rover — Commit Checkpoint Track 🏁
 
-<img src="./priaansh-car-track.svg?v=1" alt="Autonomous Cyber Rover Commit Checkpoint Track" width="95%"/>
+<img src="./priaansh-car-track.svg?v=2" alt="Autonomous Cyber Rover Commit Checkpoint Track" width="95%"/>
 
 <br/><br/>
 
