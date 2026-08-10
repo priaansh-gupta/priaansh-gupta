@@ -183,14 +183,6 @@ text { font-family: 'SFMono-Regular',Consolas,'Liberation Mono',Menlo,monospace;
   <rect x="722" y="152" width="558" height="522" fill="url(#scanlines)" opacity="0.5"/>
 </g>
 
-<!-- Scanner Line -->
-<g clip-path="url(#charBox)">
-  <rect x="722" y="152" width="558" height="4" fill="#00f0ff" filter="url(#glow)" opacity="0.8">
-    <animate attributeName="y" values="152;674;152" dur="3.5s" repeatCount="indefinite"/>
-  </rect>
-  <rect x="722" y="152" width="558" height="40" fill="url(#charGlow)">
-    <animate attributeName="y" values="112;634;112" dur="3.5s" repeatCount="indefinite"/>
-  </rect>
-</g>
+<!-- Scanner Line Removed -->
 
 </svg>

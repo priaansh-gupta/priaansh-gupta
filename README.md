@@ -2,9 +2,9 @@
 
 <!-- ✨ Animated Banner ✨ -->
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="./priaansh-banner.svg?v=9">
-  <source media="(prefers-color-scheme: light)" srcset="./priaansh-banner-light.svg?v=9">
-  <img src="./priaansh-banner.svg?v=9" alt="Priaansh Gupta — AI & Robotics Engineer" width="100%"/>
+  <source media="(prefers-color-scheme: dark)" srcset="./priaansh-banner.svg?v=10">
+  <source media="(prefers-color-scheme: light)" srcset="./priaansh-banner-light.svg?v=10">
+  <img src="./priaansh-banner.svg?v=10" alt="Priaansh Gupta — AI & Robotics Engineer" width="100%"/>
 </picture>
 
 </div>
@@ -25,7 +25,7 @@
 
 | 🤖 Project | 🛠️ Tech | 🎯 Impact |
 |:---|:---:|:---|
-| [CGS — Circuit Graphic Symphony](https://github.com/priaansh-gupta/CGS) | `Python` `SPICE` | Text → schematics &amp; netlists |
+| [CGS — Circuit Graphic Symphony](https://github.com/priaansh-gupta/CGS) | `JavaScript` `SPICE` | Text → schematics &amp; netlists |
 | [SafeScan — Ingredient Scanner](https://github.com/priaansh-gupta/SafeScan) | `Flutter` `CV` | Harmful ingredient scanner |
 | [CASTA — Counter-Drone Platform](https://github.com/priaansh-gupta/CASTA) | `YOLO` `TensorRT` | Real-time C-UAS tracking |
 | [PetPal — AI Vet App](https://github.com/priaansh-gupta/PetPal) | `Gemini` `Firebase` | Voice &amp; video AI consultations |
