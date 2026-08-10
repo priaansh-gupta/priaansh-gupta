@@ -539,8 +539,8 @@
   <rect x="703" y="95" width="10" height="10" rx="2" fill="#1a4a7a">
     <animate attributeName="fill" values="#1a4a7a; #1a4a7a; #0d1220; #0d1220" keyTimes="0; 0.509; 0.987; 1" dur="18.0s" repeatCount="indefinite"/>
   </rect>
-  <rect x="703" y="108" width="10" height="10" rx="2" fill="#00f0ff">
-    <animate attributeName="fill" values="#00f0ff; #00f0ff; #0d1220; #0d1220" keyTimes="0; 0.295; 0.974; 1" dur="18.0s" repeatCount="indefinite"/>
+  <rect x="703" y="108" width="10" height="10" rx="2" fill="#22d65e">
+    <animate attributeName="fill" values="#22d65e; #22d65e; #0d1220; #0d1220" keyTimes="0; 0.295; 0.974; 1" dur="18.0s" repeatCount="indefinite"/>
   </rect>
   <g>
     <circle r="5.5" fill="#00f0ff" filter="drop-shadow(0 0 6px #00f0ff)">
