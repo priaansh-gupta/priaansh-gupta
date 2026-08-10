@@ -2,9 +2,9 @@
 
 <!-- ✨ Animated Banner ✨ -->
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="./priaansh-banner.svg?v=10">
-  <source media="(prefers-color-scheme: light)" srcset="./priaansh-banner-light.svg?v=10">
-  <img src="./priaansh-banner.svg?v=10" alt="Priaansh Gupta — AI & Robotics Engineer" width="100%"/>
+  <source media="(prefers-color-scheme: dark)" srcset="./priaansh-banner.svg?v=11">
+  <source media="(prefers-color-scheme: light)" srcset="./priaansh-banner-light.svg?v=11">
+  <img src="./priaansh-banner.svg?v=11" alt="Priaansh Gupta — AI & Robotics Engineer" width="100%"/>
 </picture>
 
 </div>
@@ -73,7 +73,7 @@
 
 ### 🏎️ Autonomous Cyber Rover — Commit Checkpoint Track 🏁
 
-<img src="./priaansh-car-track.svg?v=2" alt="Autonomous Cyber Rover Commit Checkpoint Track" width="95%"/>
+<img src="./priaansh-car-track.svg?v=3" alt="Autonomous Cyber Rover Commit Checkpoint Track" width="95%"/>
 
 <br/><br/>
 

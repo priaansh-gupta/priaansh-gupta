@@ -31,7 +31,7 @@ def generate_car_track_svg():
     offset_y = 40  # Header title at y=16, month labels at y=31
     width = 750
     height = 175
-    dur = 25.0     # Smooth 25s full circuit driving loop
+    dur = 24.0     # Smooth 24s horizontal driving circuit
 
     bg_empty = "#0d1220"
     color_levels = {
@@ -75,11 +75,11 @@ def generate_car_track_svg():
                 lvl = random.choice([0, 0, 1, 2, 3, 4])
                 grid_cells[(c, r)] = {'level': lvl, 'count': lvl * 2, 'color': color_levels[lvl], 'date': ''}
 
-    # Continuous smooth autonomous rover driving road across grid terrain
+    # HORIZONTAL row-by-row driving road across grid terrain
     road_coords = []
-    for c in range(cols):
-        r_range = range(rows) if c % 2 == 0 else range(rows - 1, -1, -1)
-        for r in r_range:
+    for r in range(rows):
+        c_range = range(cols) if r % 2 == 0 else range(cols - 1, -1, -1)
+        for c in c_range:
             px = offset_x + c * (cell_size + gap) + cell_size / 2
             py = offset_y + r * (cell_size + gap) + cell_size / 2
             road_coords.append((c, r, px, py))
@@ -153,7 +153,7 @@ def generate_car_track_svg():
             else:
                 svg.append(f'  <rect x="{x}" y="{y}" width="{cell_size}" height="{cell_size}" rx="2" fill="{final_color}"{border_attr}/>')
 
-    # Realistic Cyber Rover Vehicle Model (<g> facing forward, rotate="auto")
+    # Horizontal Cyber Rover Vehicle Model (<g> facing forward, rotate="auto")
     svg.append(f'  <g>')
     # Front Headlight Searchlight Cone Beam
     svg.append(f'    <g>')
@@ -200,7 +200,7 @@ def generate_car_track_svg():
 
     with open('priaansh-car-track.svg', 'w', encoding='utf-8') as f:
         f.write("\n".join(svg))
-    print("Generated smooth vehicle Cyber Rover priaansh-car-track.svg successfully!")
+    print("Generated horizontal driving Cyber Rover priaansh-car-track.svg successfully!")
 
 if __name__ == "__main__":
     generate_car_track_svg()
