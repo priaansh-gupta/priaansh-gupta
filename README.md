@@ -42,7 +42,9 @@
 <br/><br/>
 
 <!-- 🌐 15 Projects DeepTech Ecosystem Matrix -->
-<img src="./priaansh-projects-matrix.svg?v=2" alt="15 Projects DeepTech Ecosystem Matrix" width="100%"/>
+<p align="center">
+  <img src="./priaansh-projects-matrix.svg?v=3" alt="15 Projects DeepTech Ecosystem Matrix" width="100%"/>
+</p>
 
 <br/>
 
