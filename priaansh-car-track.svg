@@ -547,7 +547,9 @@
     <animate attributeName="fill" values="#0d1220; #1a4a7a; #1a4a7a" keyTimes="0; 0.712; 1" dur="24.0s" repeatCount="indefinite"/>
   </rect>
   <rect x="703" y="105" width="10" height="10" rx="2" fill="#0d1220" stroke="#1a4a7a" stroke-width="0.5"/>
-  <rect x="703" y="118" width="10" height="10" rx="2" fill="#0d1220" stroke="#1a4a7a" stroke-width="0.5"/>
+  <rect x="703" y="118" width="10" height="10" rx="2" fill="#0d1220">
+    <animate attributeName="fill" values="#0d1220; #1a4a7a; #1a4a7a" keyTimes="0; 0.997; 1" dur="24.0s" repeatCount="indefinite"/>
+  </rect>
   <g>
     <g>
       <polygon points="10,0 30,-10 30,10" fill="url(#roverHeadlight)" opacity="0.75"/>
