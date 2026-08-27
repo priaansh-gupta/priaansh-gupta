@@ -382,7 +382,7 @@
     <animate attributeName="fill" values="#0d1220; #1a4a7a; #1a4a7a" keyTimes="0; 0.093; 1" dur="24.0s" repeatCount="indefinite"/>
   </rect>
   <rect x="482" y="53" width="10" height="10" rx="2" fill="#0d1220">
-    <animate attributeName="fill" values="#0d1220; #3b82f6; #3b82f6" keyTimes="0; 0.190; 1" dur="24.0s" repeatCount="indefinite"/>
+    <animate attributeName="fill" values="#0d1220; #1a4a7a; #1a4a7a" keyTimes="0; 0.190; 1" dur="24.0s" repeatCount="indefinite"/>
   </rect>
   <rect x="482" y="66" width="10" height="10" rx="2" fill="#0d1220">
     <animate attributeName="fill" values="#0d1220; #3b82f6; #3b82f6" keyTimes="0; 0.379; 1" dur="24.0s" repeatCount="indefinite"/>
