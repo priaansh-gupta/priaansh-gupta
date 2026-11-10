@@ -18,10 +18,10 @@
     <text x="144" y="31">Jan</text>
     <text x="196" y="31">Feb</text>
     <text x="248" y="31">Mar</text>
-    <text x="313" y="31">Apr</text>
+    <text x="300" y="31">Apr</text>
     <text x="365" y="31">May</text>
     <text x="417" y="31">Jun</text>
-    <text x="482" y="31">Jul</text>
+    <text x="469" y="31">Jul</text>
     <text x="534" y="31">Aug</text>
     <text x="586" y="31">Sep</text>
     <text x="651" y="31">Oct</text>
@@ -32,38 +32,36 @@
     <text x="12" y="87">Wed</text>
     <text x="12" y="113">Fri</text>
   </g>
-  <rect x="40" y="40" width="10" height="10" rx="2" fill="#0d1220">
-    <animate attributeName="fill" values="#0d1220; #1a4a7a; #1a4a7a" keyTimes="0; 0.000; 1" dur="24.0s" repeatCount="indefinite"/>
-  </rect>
+  <rect x="40" y="40" width="10" height="10" rx="2" fill="#0d1220" stroke="#1a4a7a" stroke-width="0.5"/>
   <rect x="40" y="53" width="10" height="10" rx="2" fill="#0d1220" stroke="#1a4a7a" stroke-width="0.5"/>
   <rect x="40" y="66" width="10" height="10" rx="2" fill="#0d1220" stroke="#1a4a7a" stroke-width="0.5"/>
-  <rect x="40" y="79" width="10" height="10" rx="2" fill="#0d1220" stroke="#1a4a7a" stroke-width="0.5"/>
+  <rect x="40" y="79" width="10" height="10" rx="2" fill="#0d1220">
+    <animate attributeName="fill" values="#0d1220; #1a4a7a; #1a4a7a" keyTimes="0; 0.569; 1" dur="24.0s" repeatCount="indefinite"/>
+  </rect>
   <rect x="40" y="92" width="10" height="10" rx="2" fill="#0d1220">
     <animate attributeName="fill" values="#0d1220; #1a4a7a; #1a4a7a" keyTimes="0; 0.571; 1" dur="24.0s" repeatCount="indefinite"/>
   </rect>
   <rect x="40" y="105" width="10" height="10" rx="2" fill="#0d1220">
-    <animate attributeName="fill" values="#0d1220; #1a4a7a; #1a4a7a" keyTimes="0; 0.854; 1" dur="24.0s" repeatCount="indefinite"/>
+    <animate attributeName="fill" values="#0d1220; #3b82f6; #3b82f6" keyTimes="0; 0.854; 1" dur="24.0s" repeatCount="indefinite"/>
   </rect>
   <rect x="40" y="118" width="10" height="10" rx="2" fill="#0d1220">
-    <animate attributeName="fill" values="#0d1220; #3b82f6; #3b82f6" keyTimes="0; 0.857; 1" dur="24.0s" repeatCount="indefinite"/>
+    <animate attributeName="fill" values="#0d1220; #1a4a7a; #1a4a7a" keyTimes="0; 0.857; 1" dur="24.0s" repeatCount="indefinite"/>
   </rect>
-  <rect x="53" y="40" width="10" height="10" rx="2" fill="#0d1220">
-    <animate attributeName="fill" values="#0d1220; #1a4a7a; #1a4a7a" keyTimes="0; 0.003; 1" dur="24.0s" repeatCount="indefinite"/>
-  </rect>
+  <rect x="53" y="40" width="10" height="10" rx="2" fill="#0d1220" stroke="#1a4a7a" stroke-width="0.5"/>
   <rect x="53" y="53" width="10" height="10" rx="2" fill="#0d1220" stroke="#1a4a7a" stroke-width="0.5"/>
   <rect x="53" y="66" width="10" height="10" rx="2" fill="#0d1220" stroke="#1a4a7a" stroke-width="0.5"/>
-  <rect x="53" y="79" width="10" height="10" rx="2" fill="#0d1220" stroke="#1a4a7a" stroke-width="0.5"/>
-  <rect x="53" y="92" width="10" height="10" rx="2" fill="#0d1220">
-    <animate attributeName="fill" values="#0d1220; #1a4a7a; #1a4a7a" keyTimes="0; 0.574; 1" dur="24.0s" repeatCount="indefinite"/>
+  <rect x="53" y="79" width="10" height="10" rx="2" fill="#0d1220">
+    <animate attributeName="fill" values="#0d1220; #1a4a7a; #1a4a7a" keyTimes="0; 0.566; 1" dur="24.0s" repeatCount="indefinite"/>
   </rect>
-  <rect x="53" y="105" width="10" height="10" rx="2" fill="#0d1220" stroke="#1a4a7a" stroke-width="0.5"/>
-  <rect x="53" y="118" width="10" height="10" rx="2" fill="#0d1220">
-    <animate attributeName="fill" values="#0d1220; #1a4a7a; #1a4a7a" keyTimes="0; 0.860; 1" dur="24.0s" repeatCount="indefinite"/>
+  <rect x="53" y="92" width="10" height="10" rx="2" fill="#0d1220" stroke="#1a4a7a" stroke-width="0.5"/>
+  <rect x="53" y="105" width="10" height="10" rx="2" fill="#0d1220">
+    <animate attributeName="fill" values="#0d1220; #1a4a7a; #1a4a7a" keyTimes="0; 0.852; 1" dur="24.0s" repeatCount="indefinite"/>
   </rect>
-  <rect x="66" y="40" width="10" height="10" rx="2" fill="#0d1220" stroke="#1a4a7a" stroke-width="0.5"/>
-  <rect x="66" y="53" width="10" height="10" rx="2" fill="#0d1220">
-    <animate attributeName="fill" values="#0d1220; #1a4a7a; #1a4a7a" keyTimes="0; 0.277; 1" dur="24.0s" repeatCount="indefinite"/>
+  <rect x="53" y="118" width="10" height="10" rx="2" fill="#0d1220" stroke="#1a4a7a" stroke-width="0.5"/>
+  <rect x="66" y="40" width="10" height="10" rx="2" fill="#0d1220">
+    <animate attributeName="fill" values="#0d1220; #1a4a7a; #1a4a7a" keyTimes="0; 0.005; 1" dur="24.0s" repeatCount="indefinite"/>
   </rect>
+  <rect x="66" y="53" width="10" height="10" rx="2" fill="#0d1220" stroke="#1a4a7a" stroke-width="0.5"/>
   <rect x="66" y="66" width="10" height="10" rx="2" fill="#0d1220" stroke="#1a4a7a" stroke-width="0.5"/>
   <rect x="66" y="79" width="10" height="10" rx="2" fill="#0d1220" stroke="#1a4a7a" stroke-width="0.5"/>
   <rect x="66" y="92" width="10" height="10" rx="2" fill="#0d1220" stroke="#1a4a7a" stroke-width="0.5"/>
@@ -75,13 +73,13 @@
   <rect x="79" y="79" width="10" height="10" rx="2" fill="#0d1220" stroke="#1a4a7a" stroke-width="0.5"/>
   <rect x="79" y="92" width="10" height="10" rx="2" fill="#0d1220" stroke="#1a4a7a" stroke-width="0.5"/>
   <rect x="79" y="105" width="10" height="10" rx="2" fill="#0d1220" stroke="#1a4a7a" stroke-width="0.5"/>
-  <rect x="79" y="118" width="10" height="10" rx="2" fill="#0d1220" stroke="#1a4a7a" stroke-width="0.5"/>
+  <rect x="79" y="118" width="10" height="10" rx="2" fill="#0d1220">
+    <animate attributeName="fill" values="#0d1220; #1a4a7a; #1a4a7a" keyTimes="0; 0.865; 1" dur="24.0s" repeatCount="indefinite"/>
+  </rect>
   <rect x="92" y="40" width="10" height="10" rx="2" fill="#0d1220">
     <animate attributeName="fill" values="#0d1220; #1a4a7a; #1a4a7a" keyTimes="0; 0.011; 1" dur="24.0s" repeatCount="indefinite"/>
   </rect>
-  <rect x="92" y="53" width="10" height="10" rx="2" fill="#0d1220">
-    <animate attributeName="fill" values="#0d1220; #1a4a7a; #1a4a7a" keyTimes="0; 0.272; 1" dur="24.0s" repeatCount="indefinite"/>
-  </rect>
+  <rect x="92" y="53" width="10" height="10" rx="2" fill="#0d1220" stroke="#1a4a7a" stroke-width="0.5"/>
   <rect x="92" y="66" width="10" height="10" rx="2" fill="#0d1220" stroke="#1a4a7a" stroke-width="0.5"/>
   <rect x="92" y="79" width="10" height="10" rx="2" fill="#0d1220" stroke="#1a4a7a" stroke-width="0.5"/>
   <rect x="92" y="92" width="10" height="10" rx="2" fill="#0d1220" stroke="#1a4a7a" stroke-width="0.5"/>
@@ -134,21 +132,21 @@
   <rect x="183" y="66" width="10" height="10" rx="2" fill="#0d1220" stroke="#1a4a7a" stroke-width="0.5"/>
   <rect x="183" y="79" width="10" height="10" rx="2" fill="#0d1220" stroke="#1a4a7a" stroke-width="0.5"/>
   <rect x="183" y="92" width="10" height="10" rx="2" fill="#0d1220" stroke="#1a4a7a" stroke-width="0.5"/>
-  <rect x="183" y="105" width="10" height="10" rx="2" fill="#0d1220" stroke="#1a4a7a" stroke-width="0.5"/>
-  <rect x="183" y="118" width="10" height="10" rx="2" fill="#0d1220">
-    <animate attributeName="fill" values="#0d1220; #1a4a7a; #1a4a7a" keyTimes="0; 0.887; 1" dur="24.0s" repeatCount="indefinite"/>
+  <rect x="183" y="105" width="10" height="10" rx="2" fill="#0d1220">
+    <animate attributeName="fill" values="#0d1220; #1a4a7a; #1a4a7a" keyTimes="0; 0.824; 1" dur="24.0s" repeatCount="indefinite"/>
   </rect>
+  <rect x="183" y="118" width="10" height="10" rx="2" fill="#0d1220" stroke="#1a4a7a" stroke-width="0.5"/>
   <rect x="196" y="40" width="10" height="10" rx="2" fill="#0d1220" stroke="#1a4a7a" stroke-width="0.5"/>
   <rect x="196" y="53" width="10" height="10" rx="2" fill="#0d1220" stroke="#1a4a7a" stroke-width="0.5"/>
   <rect x="196" y="66" width="10" height="10" rx="2" fill="#0d1220" stroke="#1a4a7a" stroke-width="0.5"/>
   <rect x="196" y="79" width="10" height="10" rx="2" fill="#0d1220" stroke="#1a4a7a" stroke-width="0.5"/>
-  <rect x="196" y="92" width="10" height="10" rx="2" fill="#0d1220" stroke="#1a4a7a" stroke-width="0.5"/>
+  <rect x="196" y="92" width="10" height="10" rx="2" fill="#0d1220">
+    <animate attributeName="fill" values="#0d1220; #1a4a7a; #1a4a7a" keyTimes="0; 0.604; 1" dur="24.0s" repeatCount="indefinite"/>
+  </rect>
   <rect x="196" y="105" width="10" height="10" rx="2" fill="#0d1220">
     <animate attributeName="fill" values="#0d1220; #1a4a7a; #1a4a7a" keyTimes="0; 0.821; 1" dur="24.0s" repeatCount="indefinite"/>
   </rect>
-  <rect x="196" y="118" width="10" height="10" rx="2" fill="#0d1220">
-    <animate attributeName="fill" values="#0d1220; #1a4a7a; #1a4a7a" keyTimes="0; 0.890; 1" dur="24.0s" repeatCount="indefinite"/>
-  </rect>
+  <rect x="196" y="118" width="10" height="10" rx="2" fill="#0d1220" stroke="#1a4a7a" stroke-width="0.5"/>
   <rect x="209" y="40" width="10" height="10" rx="2" fill="#0d1220" stroke="#1a4a7a" stroke-width="0.5"/>
   <rect x="209" y="53" width="10" height="10" rx="2" fill="#0d1220" stroke="#1a4a7a" stroke-width="0.5"/>
   <rect x="209" y="66" width="10" height="10" rx="2" fill="#0d1220" stroke="#1a4a7a" stroke-width="0.5"/>
@@ -163,31 +161,33 @@
   <rect x="222" y="92" width="10" height="10" rx="2" fill="#0d1220" stroke="#1a4a7a" stroke-width="0.5"/>
   <rect x="222" y="105" width="10" height="10" rx="2" fill="#0d1220" stroke="#1a4a7a" stroke-width="0.5"/>
   <rect x="222" y="118" width="10" height="10" rx="2" fill="#0d1220" stroke="#1a4a7a" stroke-width="0.5"/>
-  <rect x="235" y="40" width="10" height="10" rx="2" fill="#0d1220" stroke="#1a4a7a" stroke-width="0.5"/>
-  <rect x="235" y="53" width="10" height="10" rx="2" fill="#0d1220">
-    <animate attributeName="fill" values="#0d1220; #1a4a7a; #1a4a7a" keyTimes="0; 0.242; 1" dur="24.0s" repeatCount="indefinite"/>
+  <rect x="235" y="40" width="10" height="10" rx="2" fill="#0d1220">
+    <animate attributeName="fill" values="#0d1220; #1a4a7a; #1a4a7a" keyTimes="0; 0.041; 1" dur="24.0s" repeatCount="indefinite"/>
   </rect>
+  <rect x="235" y="53" width="10" height="10" rx="2" fill="#0d1220" stroke="#1a4a7a" stroke-width="0.5"/>
   <rect x="235" y="66" width="10" height="10" rx="2" fill="#0d1220" stroke="#1a4a7a" stroke-width="0.5"/>
   <rect x="235" y="79" width="10" height="10" rx="2" fill="#0d1220" stroke="#1a4a7a" stroke-width="0.5"/>
   <rect x="235" y="92" width="10" height="10" rx="2" fill="#0d1220" stroke="#1a4a7a" stroke-width="0.5"/>
-  <rect x="235" y="105" width="10" height="10" rx="2" fill="#0d1220" stroke="#1a4a7a" stroke-width="0.5"/>
-  <rect x="235" y="118" width="10" height="10" rx="2" fill="#0d1220">
-    <animate attributeName="fill" values="#0d1220; #1a4a7a; #1a4a7a" keyTimes="0; 0.898; 1" dur="24.0s" repeatCount="indefinite"/>
+  <rect x="235" y="105" width="10" height="10" rx="2" fill="#0d1220">
+    <animate attributeName="fill" values="#0d1220; #1a4a7a; #1a4a7a" keyTimes="0; 0.813; 1" dur="24.0s" repeatCount="indefinite"/>
   </rect>
+  <rect x="235" y="118" width="10" height="10" rx="2" fill="#0d1220" stroke="#1a4a7a" stroke-width="0.5"/>
   <rect x="248" y="40" width="10" height="10" rx="2" fill="#0d1220" stroke="#1a4a7a" stroke-width="0.5"/>
   <rect x="248" y="53" width="10" height="10" rx="2" fill="#0d1220" stroke="#1a4a7a" stroke-width="0.5"/>
   <rect x="248" y="66" width="10" height="10" rx="2" fill="#0d1220" stroke="#1a4a7a" stroke-width="0.5"/>
-  <rect x="248" y="79" width="10" height="10" rx="2" fill="#0d1220" stroke="#1a4a7a" stroke-width="0.5"/>
+  <rect x="248" y="79" width="10" height="10" rx="2" fill="#0d1220">
+    <animate attributeName="fill" values="#0d1220; #1a4a7a; #1a4a7a" keyTimes="0; 0.525; 1" dur="24.0s" repeatCount="indefinite"/>
+  </rect>
   <rect x="248" y="92" width="10" height="10" rx="2" fill="#0d1220">
     <animate attributeName="fill" values="#0d1220; #1a4a7a; #1a4a7a" keyTimes="0; 0.615; 1" dur="24.0s" repeatCount="indefinite"/>
   </rect>
-  <rect x="248" y="105" width="10" height="10" rx="2" fill="#0d1220">
-    <animate attributeName="fill" values="#0d1220; #1a4a7a; #1a4a7a" keyTimes="0; 0.810; 1" dur="24.0s" repeatCount="indefinite"/>
-  </rect>
+  <rect x="248" y="105" width="10" height="10" rx="2" fill="#0d1220" stroke="#1a4a7a" stroke-width="0.5"/>
   <rect x="248" y="118" width="10" height="10" rx="2" fill="#0d1220" stroke="#1a4a7a" stroke-width="0.5"/>
   <rect x="261" y="40" width="10" height="10" rx="2" fill="#0d1220" stroke="#1a4a7a" stroke-width="0.5"/>
   <rect x="261" y="53" width="10" height="10" rx="2" fill="#0d1220" stroke="#1a4a7a" stroke-width="0.5"/>
-  <rect x="261" y="66" width="10" height="10" rx="2" fill="#0d1220" stroke="#1a4a7a" stroke-width="0.5"/>
+  <rect x="261" y="66" width="10" height="10" rx="2" fill="#0d1220">
+    <animate attributeName="fill" values="#0d1220; #1a4a7a; #1a4a7a" keyTimes="0; 0.332; 1" dur="24.0s" repeatCount="indefinite"/>
+  </rect>
   <rect x="261" y="79" width="10" height="10" rx="2" fill="#0d1220">
     <animate attributeName="fill" values="#0d1220; #1a4a7a; #1a4a7a" keyTimes="0; 0.522; 1" dur="24.0s" repeatCount="indefinite"/>
   </rect>
@@ -198,52 +198,52 @@
     <animate attributeName="fill" values="#0d1220; #1a4a7a; #1a4a7a" keyTimes="0; 0.808; 1" dur="24.0s" repeatCount="indefinite"/>
   </rect>
   <rect x="261" y="118" width="10" height="10" rx="2" fill="#0d1220">
-    <animate attributeName="fill" values="#0d1220; #1a4a7a; #1a4a7a" keyTimes="0; 0.904; 1" dur="24.0s" repeatCount="indefinite"/>
+    <animate attributeName="fill" values="#0d1220; #22d65e; #22d65e" keyTimes="0; 0.904; 1" dur="24.0s" repeatCount="indefinite"/>
   </rect>
   <rect x="274" y="40" width="10" height="10" rx="2" fill="#0d1220">
-    <animate attributeName="fill" values="#0d1220; #22d65e; #22d65e" keyTimes="0; 0.049; 1" dur="24.0s" repeatCount="indefinite"/>
+    <animate attributeName="fill" values="#0d1220; #1a4a7a; #1a4a7a" keyTimes="0; 0.049; 1" dur="24.0s" repeatCount="indefinite"/>
   </rect>
   <rect x="274" y="53" width="10" height="10" rx="2" fill="#0d1220">
-    <animate attributeName="fill" values="#0d1220; #1a4a7a; #1a4a7a" keyTimes="0; 0.234; 1" dur="24.0s" repeatCount="indefinite"/>
+    <animate attributeName="fill" values="#0d1220; #3b82f6; #3b82f6" keyTimes="0; 0.234; 1" dur="24.0s" repeatCount="indefinite"/>
   </rect>
-  <rect x="274" y="66" width="10" height="10" rx="2" fill="#0d1220">
-    <animate attributeName="fill" values="#0d1220; #3b82f6; #3b82f6" keyTimes="0; 0.335; 1" dur="24.0s" repeatCount="indefinite"/>
+  <rect x="274" y="66" width="10" height="10" rx="2" fill="#0d1220" stroke="#1a4a7a" stroke-width="0.5"/>
+  <rect x="274" y="79" width="10" height="10" rx="2" fill="#0d1220">
+    <animate attributeName="fill" values="#0d1220; #22d65e; #22d65e" keyTimes="0; 0.519; 1" dur="24.0s" repeatCount="indefinite"/>
   </rect>
-  <rect x="274" y="79" width="10" height="10" rx="2" fill="#0d1220" stroke="#1a4a7a" stroke-width="0.5"/>
   <rect x="274" y="92" width="10" height="10" rx="2" fill="#0d1220">
-    <animate attributeName="fill" values="#0d1220; #22d65e; #22d65e" keyTimes="0; 0.621; 1" dur="24.0s" repeatCount="indefinite"/>
+    <animate attributeName="fill" values="#0d1220; #1a4a7a; #1a4a7a" keyTimes="0; 0.621; 1" dur="24.0s" repeatCount="indefinite"/>
   </rect>
   <rect x="274" y="105" width="10" height="10" rx="2" fill="#0d1220">
     <animate attributeName="fill" values="#0d1220; #1a4a7a; #1a4a7a" keyTimes="0; 0.805; 1" dur="24.0s" repeatCount="indefinite"/>
   </rect>
-  <rect x="274" y="118" width="10" height="10" rx="2" fill="#0d1220">
-    <animate attributeName="fill" values="#0d1220; #1a4a7a; #1a4a7a" keyTimes="0; 0.907; 1" dur="24.0s" repeatCount="indefinite"/>
+  <rect x="274" y="118" width="10" height="10" rx="2" fill="#0d1220" stroke="#1a4a7a" stroke-width="0.5"/>
+  <rect x="287" y="40" width="10" height="10" rx="2" fill="#0d1220">
+    <animate attributeName="fill" values="#0d1220; #3b82f6; #3b82f6" keyTimes="0; 0.052; 1" dur="24.0s" repeatCount="indefinite"/>
   </rect>
-  <rect x="287" y="40" width="10" height="10" rx="2" fill="#0d1220" stroke="#1a4a7a" stroke-width="0.5"/>
-  <rect x="287" y="53" width="10" height="10" rx="2" fill="#0d1220">
-    <animate attributeName="fill" values="#0d1220; #3b82f6; #3b82f6" keyTimes="0; 0.231; 1" dur="24.0s" repeatCount="indefinite"/>
+  <rect x="287" y="53" width="10" height="10" rx="2" fill="#0d1220" stroke="#1a4a7a" stroke-width="0.5"/>
+  <rect x="287" y="66" width="10" height="10" rx="2" fill="#0d1220">
+    <animate attributeName="fill" values="#0d1220; #1a4a7a; #1a4a7a" keyTimes="0; 0.338; 1" dur="24.0s" repeatCount="indefinite"/>
   </rect>
-  <rect x="287" y="66" width="10" height="10" rx="2" fill="#0d1220" stroke="#1a4a7a" stroke-width="0.5"/>
   <rect x="287" y="79" width="10" height="10" rx="2" fill="#0d1220">
-    <animate attributeName="fill" values="#0d1220; #1a4a7a; #1a4a7a" keyTimes="0; 0.516; 1" dur="24.0s" repeatCount="indefinite"/>
+    <animate attributeName="fill" values="#0d1220; #3b82f6; #3b82f6" keyTimes="0; 0.516; 1" dur="24.0s" repeatCount="indefinite"/>
   </rect>
-  <rect x="287" y="92" width="10" height="10" rx="2" fill="#0d1220">
-    <animate attributeName="fill" values="#0d1220; #3b82f6; #3b82f6" keyTimes="0; 0.624; 1" dur="24.0s" repeatCount="indefinite"/>
+  <rect x="287" y="92" width="10" height="10" rx="2" fill="#0d1220" stroke="#1a4a7a" stroke-width="0.5"/>
+  <rect x="287" y="105" width="10" height="10" rx="2" fill="#0d1220">
+    <animate attributeName="fill" values="#0d1220; #1a4a7a; #1a4a7a" keyTimes="0; 0.802; 1" dur="24.0s" repeatCount="indefinite"/>
   </rect>
-  <rect x="287" y="105" width="10" height="10" rx="2" fill="#0d1220" stroke="#1a4a7a" stroke-width="0.5"/>
-  <rect x="287" y="118" width="10" height="10" rx="2" fill="#0d1220">
-    <animate attributeName="fill" values="#0d1220; #1a4a7a; #1a4a7a" keyTimes="0; 0.909; 1" dur="24.0s" repeatCount="indefinite"/>
-  </rect>
+  <rect x="287" y="118" width="10" height="10" rx="2" fill="#0d1220" stroke="#1a4a7a" stroke-width="0.5"/>
   <rect x="300" y="40" width="10" height="10" rx="2" fill="#0d1220" stroke="#1a4a7a" stroke-width="0.5"/>
   <rect x="300" y="53" width="10" height="10" rx="2" fill="#0d1220" stroke="#1a4a7a" stroke-width="0.5"/>
   <rect x="300" y="66" width="10" height="10" rx="2" fill="#0d1220" stroke="#1a4a7a" stroke-width="0.5"/>
   <rect x="300" y="79" width="10" height="10" rx="2" fill="#0d1220" stroke="#1a4a7a" stroke-width="0.5"/>
   <rect x="300" y="92" width="10" height="10" rx="2" fill="#0d1220" stroke="#1a4a7a" stroke-width="0.5"/>
-  <rect x="300" y="105" width="10" height="10" rx="2" fill="#0d1220" stroke="#1a4a7a" stroke-width="0.5"/>
-  <rect x="300" y="118" width="10" height="10" rx="2" fill="#0d1220">
-    <animate attributeName="fill" values="#0d1220; #1a4a7a; #1a4a7a" keyTimes="0; 0.912; 1" dur="24.0s" repeatCount="indefinite"/>
+  <rect x="300" y="105" width="10" height="10" rx="2" fill="#0d1220">
+    <animate attributeName="fill" values="#0d1220; #1a4a7a; #1a4a7a" keyTimes="0; 0.799; 1" dur="24.0s" repeatCount="indefinite"/>
   </rect>
-  <rect x="313" y="40" width="10" height="10" rx="2" fill="#0d1220" stroke="#1a4a7a" stroke-width="0.5"/>
+  <rect x="300" y="118" width="10" height="10" rx="2" fill="#0d1220" stroke="#1a4a7a" stroke-width="0.5"/>
+  <rect x="313" y="40" width="10" height="10" rx="2" fill="#0d1220">
+    <animate attributeName="fill" values="#0d1220; #1a4a7a; #1a4a7a" keyTimes="0; 0.058; 1" dur="24.0s" repeatCount="indefinite"/>
+  </rect>
   <rect x="313" y="53" width="10" height="10" rx="2" fill="#0d1220">
     <animate attributeName="fill" values="#0d1220; #1a4a7a; #1a4a7a" keyTimes="0; 0.225; 1" dur="24.0s" repeatCount="indefinite"/>
   </rect>
@@ -253,55 +253,53 @@
   <rect x="313" y="79" width="10" height="10" rx="2" fill="#0d1220">
     <animate attributeName="fill" values="#0d1220; #1a4a7a; #1a4a7a" keyTimes="0; 0.511; 1" dur="24.0s" repeatCount="indefinite"/>
   </rect>
-  <rect x="313" y="92" width="10" height="10" rx="2" fill="#0d1220">
-    <animate attributeName="fill" values="#0d1220; #1a4a7a; #1a4a7a" keyTimes="0; 0.629; 1" dur="24.0s" repeatCount="indefinite"/>
-  </rect>
+  <rect x="313" y="92" width="10" height="10" rx="2" fill="#0d1220" stroke="#1a4a7a" stroke-width="0.5"/>
   <rect x="313" y="105" width="10" height="10" rx="2" fill="#0d1220" stroke="#1a4a7a" stroke-width="0.5"/>
-  <rect x="313" y="118" width="10" height="10" rx="2" fill="#0d1220" stroke="#1a4a7a" stroke-width="0.5"/>
-  <rect x="326" y="40" width="10" height="10" rx="2" fill="#0d1220">
-    <animate attributeName="fill" values="#0d1220; #1a4a7a; #1a4a7a" keyTimes="0; 0.060; 1" dur="24.0s" repeatCount="indefinite"/>
+  <rect x="313" y="118" width="10" height="10" rx="2" fill="#0d1220">
+    <animate attributeName="fill" values="#0d1220; #1a4a7a; #1a4a7a" keyTimes="0; 0.915; 1" dur="24.0s" repeatCount="indefinite"/>
   </rect>
+  <rect x="326" y="40" width="10" height="10" rx="2" fill="#0d1220" stroke="#1a4a7a" stroke-width="0.5"/>
   <rect x="326" y="53" width="10" height="10" rx="2" fill="#0d1220" stroke="#1a4a7a" stroke-width="0.5"/>
   <rect x="326" y="66" width="10" height="10" rx="2" fill="#0d1220" stroke="#1a4a7a" stroke-width="0.5"/>
   <rect x="326" y="79" width="10" height="10" rx="2" fill="#0d1220" stroke="#1a4a7a" stroke-width="0.5"/>
   <rect x="326" y="92" width="10" height="10" rx="2" fill="#0d1220" stroke="#1a4a7a" stroke-width="0.5"/>
-  <rect x="326" y="105" width="10" height="10" rx="2" fill="#0d1220" stroke="#1a4a7a" stroke-width="0.5"/>
+  <rect x="326" y="105" width="10" height="10" rx="2" fill="#0d1220">
+    <animate attributeName="fill" values="#0d1220; #3b82f6; #3b82f6" keyTimes="0; 0.794; 1" dur="24.0s" repeatCount="indefinite"/>
+  </rect>
   <rect x="326" y="118" width="10" height="10" rx="2" fill="#0d1220">
-    <animate attributeName="fill" values="#0d1220; #3b82f6; #3b82f6" keyTimes="0; 0.918; 1" dur="24.0s" repeatCount="indefinite"/>
+    <animate attributeName="fill" values="#0d1220; #1a4a7a; #1a4a7a" keyTimes="0; 0.918; 1" dur="24.0s" repeatCount="indefinite"/>
   </rect>
-  <rect x="339" y="40" width="10" height="10" rx="2" fill="#0d1220">
-    <animate attributeName="fill" values="#0d1220; #1a4a7a; #1a4a7a" keyTimes="0; 0.063; 1" dur="24.0s" repeatCount="indefinite"/>
-  </rect>
+  <rect x="339" y="40" width="10" height="10" rx="2" fill="#0d1220" stroke="#1a4a7a" stroke-width="0.5"/>
   <rect x="339" y="53" width="10" height="10" rx="2" fill="#0d1220" stroke="#1a4a7a" stroke-width="0.5"/>
-  <rect x="339" y="66" width="10" height="10" rx="2" fill="#0d1220" stroke="#1a4a7a" stroke-width="0.5"/>
+  <rect x="339" y="66" width="10" height="10" rx="2" fill="#0d1220">
+    <animate attributeName="fill" values="#0d1220; #1a4a7a; #1a4a7a" keyTimes="0; 0.349; 1" dur="24.0s" repeatCount="indefinite"/>
+  </rect>
   <rect x="339" y="79" width="10" height="10" rx="2" fill="#0d1220">
-    <animate attributeName="fill" values="#0d1220; #1a4a7a; #1a4a7a" keyTimes="0; 0.505; 1" dur="24.0s" repeatCount="indefinite"/>
+    <animate attributeName="fill" values="#0d1220; #00f0ff; #00f0ff" keyTimes="0; 0.505; 1" dur="24.0s" repeatCount="indefinite"/>
   </rect>
   <rect x="339" y="92" width="10" height="10" rx="2" fill="#0d1220">
-    <animate attributeName="fill" values="#0d1220; #00f0ff; #00f0ff" keyTimes="0; 0.635; 1" dur="24.0s" repeatCount="indefinite"/>
+    <animate attributeName="fill" values="#0d1220; #22d65e; #22d65e" keyTimes="0; 0.635; 1" dur="24.0s" repeatCount="indefinite"/>
   </rect>
   <rect x="339" y="105" width="10" height="10" rx="2" fill="#0d1220">
-    <animate attributeName="fill" values="#0d1220; #22d65e; #22d65e" keyTimes="0; 0.791; 1" dur="24.0s" repeatCount="indefinite"/>
+    <animate attributeName="fill" values="#0d1220; #3b82f6; #3b82f6" keyTimes="0; 0.791; 1" dur="24.0s" repeatCount="indefinite"/>
   </rect>
   <rect x="339" y="118" width="10" height="10" rx="2" fill="#0d1220">
-    <animate attributeName="fill" values="#0d1220; #3b82f6; #3b82f6" keyTimes="0; 0.920; 1" dur="24.0s" repeatCount="indefinite"/>
+    <animate attributeName="fill" values="#0d1220; #1a4a7a; #1a4a7a" keyTimes="0; 0.920; 1" dur="24.0s" repeatCount="indefinite"/>
   </rect>
-  <rect x="352" y="40" width="10" height="10" rx="2" fill="#0d1220">
-    <animate attributeName="fill" values="#0d1220; #1a4a7a; #1a4a7a" keyTimes="0; 0.066; 1" dur="24.0s" repeatCount="indefinite"/>
-  </rect>
+  <rect x="352" y="40" width="10" height="10" rx="2" fill="#0d1220" stroke="#1a4a7a" stroke-width="0.5"/>
   <rect x="352" y="53" width="10" height="10" rx="2" fill="#0d1220" stroke="#1a4a7a" stroke-width="0.5"/>
   <rect x="352" y="66" width="10" height="10" rx="2" fill="#0d1220" stroke="#1a4a7a" stroke-width="0.5"/>
-  <rect x="352" y="79" width="10" height="10" rx="2" fill="#0d1220" stroke="#1a4a7a" stroke-width="0.5"/>
-  <rect x="352" y="92" width="10" height="10" rx="2" fill="#0d1220">
-    <animate attributeName="fill" values="#0d1220; #1a4a7a; #1a4a7a" keyTimes="0; 0.637; 1" dur="24.0s" repeatCount="indefinite"/>
+  <rect x="352" y="79" width="10" height="10" rx="2" fill="#0d1220">
+    <animate attributeName="fill" values="#0d1220; #1a4a7a; #1a4a7a" keyTimes="0; 0.503; 1" dur="24.0s" repeatCount="indefinite"/>
   </rect>
+  <rect x="352" y="92" width="10" height="10" rx="2" fill="#0d1220" stroke="#1a4a7a" stroke-width="0.5"/>
   <rect x="352" y="105" width="10" height="10" rx="2" fill="#0d1220" stroke="#1a4a7a" stroke-width="0.5"/>
   <rect x="352" y="118" width="10" height="10" rx="2" fill="#0d1220" stroke="#1a4a7a" stroke-width="0.5"/>
   <rect x="365" y="40" width="10" height="10" rx="2" fill="#0d1220" stroke="#1a4a7a" stroke-width="0.5"/>
-  <rect x="365" y="53" width="10" height="10" rx="2" fill="#0d1220" stroke="#1a4a7a" stroke-width="0.5"/>
-  <rect x="365" y="66" width="10" height="10" rx="2" fill="#0d1220">
-    <animate attributeName="fill" values="#0d1220; #1a4a7a; #1a4a7a" keyTimes="0; 0.354; 1" dur="24.0s" repeatCount="indefinite"/>
+  <rect x="365" y="53" width="10" height="10" rx="2" fill="#0d1220">
+    <animate attributeName="fill" values="#0d1220; #1a4a7a; #1a4a7a" keyTimes="0; 0.214; 1" dur="24.0s" repeatCount="indefinite"/>
   </rect>
+  <rect x="365" y="66" width="10" height="10" rx="2" fill="#0d1220" stroke="#1a4a7a" stroke-width="0.5"/>
   <rect x="365" y="79" width="10" height="10" rx="2" fill="#0d1220" stroke="#1a4a7a" stroke-width="0.5"/>
   <rect x="365" y="92" width="10" height="10" rx="2" fill="#0d1220" stroke="#1a4a7a" stroke-width="0.5"/>
   <rect x="365" y="105" width="10" height="10" rx="2" fill="#0d1220" stroke="#1a4a7a" stroke-width="0.5"/>
@@ -322,15 +320,15 @@
   <rect x="391" y="118" width="10" height="10" rx="2" fill="#0d1220" stroke="#1a4a7a" stroke-width="0.5"/>
   <rect x="404" y="40" width="10" height="10" rx="2" fill="#0d1220" stroke="#1a4a7a" stroke-width="0.5"/>
   <rect x="404" y="53" width="10" height="10" rx="2" fill="#0d1220" stroke="#1a4a7a" stroke-width="0.5"/>
-  <rect x="404" y="66" width="10" height="10" rx="2" fill="#0d1220" stroke="#1a4a7a" stroke-width="0.5"/>
-  <rect x="404" y="79" width="10" height="10" rx="2" fill="#0d1220">
-    <animate attributeName="fill" values="#0d1220; #1a4a7a; #1a4a7a" keyTimes="0; 0.492; 1" dur="24.0s" repeatCount="indefinite"/>
+  <rect x="404" y="66" width="10" height="10" rx="2" fill="#0d1220">
+    <animate attributeName="fill" values="#0d1220; #1a4a7a; #1a4a7a" keyTimes="0; 0.363; 1" dur="24.0s" repeatCount="indefinite"/>
   </rect>
+  <rect x="404" y="79" width="10" height="10" rx="2" fill="#0d1220" stroke="#1a4a7a" stroke-width="0.5"/>
   <rect x="404" y="92" width="10" height="10" rx="2" fill="#0d1220" stroke="#1a4a7a" stroke-width="0.5"/>
-  <rect x="404" y="105" width="10" height="10" rx="2" fill="#0d1220" stroke="#1a4a7a" stroke-width="0.5"/>
-  <rect x="404" y="118" width="10" height="10" rx="2" fill="#0d1220">
-    <animate attributeName="fill" values="#0d1220; #1a4a7a; #1a4a7a" keyTimes="0; 0.934; 1" dur="24.0s" repeatCount="indefinite"/>
+  <rect x="404" y="105" width="10" height="10" rx="2" fill="#0d1220">
+    <animate attributeName="fill" values="#0d1220; #1a4a7a; #1a4a7a" keyTimes="0; 0.777; 1" dur="24.0s" repeatCount="indefinite"/>
   </rect>
+  <rect x="404" y="118" width="10" height="10" rx="2" fill="#0d1220" stroke="#1a4a7a" stroke-width="0.5"/>
   <rect x="417" y="40" width="10" height="10" rx="2" fill="#0d1220" stroke="#1a4a7a" stroke-width="0.5"/>
   <rect x="417" y="53" width="10" height="10" rx="2" fill="#0d1220" stroke="#1a4a7a" stroke-width="0.5"/>
   <rect x="417" y="66" width="10" height="10" rx="2" fill="#0d1220" stroke="#1a4a7a" stroke-width="0.5"/>
@@ -339,31 +337,31 @@
   <rect x="417" y="105" width="10" height="10" rx="2" fill="#0d1220" stroke="#1a4a7a" stroke-width="0.5"/>
   <rect x="417" y="118" width="10" height="10" rx="2" fill="#0d1220" stroke="#1a4a7a" stroke-width="0.5"/>
   <rect x="430" y="40" width="10" height="10" rx="2" fill="#0d1220" stroke="#1a4a7a" stroke-width="0.5"/>
-  <rect x="430" y="53" width="10" height="10" rx="2" fill="#0d1220" stroke="#1a4a7a" stroke-width="0.5"/>
+  <rect x="430" y="53" width="10" height="10" rx="2" fill="#0d1220">
+    <animate attributeName="fill" values="#0d1220; #3b82f6; #3b82f6" keyTimes="0; 0.201; 1" dur="24.0s" repeatCount="indefinite"/>
+  </rect>
   <rect x="430" y="66" width="10" height="10" rx="2" fill="#0d1220">
-    <animate attributeName="fill" values="#0d1220; #3b82f6; #3b82f6" keyTimes="0; 0.368; 1" dur="24.0s" repeatCount="indefinite"/>
+    <animate attributeName="fill" values="#0d1220; #1a4a7a; #1a4a7a" keyTimes="0; 0.368; 1" dur="24.0s" repeatCount="indefinite"/>
   </rect>
-  <rect x="430" y="79" width="10" height="10" rx="2" fill="#0d1220">
-    <animate attributeName="fill" values="#0d1220; #1a4a7a; #1a4a7a" keyTimes="0; 0.486; 1" dur="24.0s" repeatCount="indefinite"/>
-  </rect>
+  <rect x="430" y="79" width="10" height="10" rx="2" fill="#0d1220" stroke="#1a4a7a" stroke-width="0.5"/>
   <rect x="430" y="92" width="10" height="10" rx="2" fill="#0d1220" stroke="#1a4a7a" stroke-width="0.5"/>
-  <rect x="430" y="105" width="10" height="10" rx="2" fill="#0d1220" stroke="#1a4a7a" stroke-width="0.5"/>
+  <rect x="430" y="105" width="10" height="10" rx="2" fill="#0d1220">
+    <animate attributeName="fill" values="#0d1220; #00f0ff; #00f0ff" keyTimes="0; 0.772; 1" dur="24.0s" repeatCount="indefinite"/>
+  </rect>
   <rect x="430" y="118" width="10" height="10" rx="2" fill="#0d1220">
-    <animate attributeName="fill" values="#0d1220; #00f0ff; #00f0ff" keyTimes="0; 0.940; 1" dur="24.0s" repeatCount="indefinite"/>
+    <animate attributeName="fill" values="#0d1220; #1a4a7a; #1a4a7a" keyTimes="0; 0.940; 1" dur="24.0s" repeatCount="indefinite"/>
   </rect>
-  <rect x="443" y="40" width="10" height="10" rx="2" fill="#0d1220">
-    <animate attributeName="fill" values="#0d1220; #1a4a7a; #1a4a7a" keyTimes="0; 0.085; 1" dur="24.0s" repeatCount="indefinite"/>
+  <rect x="443" y="40" width="10" height="10" rx="2" fill="#0d1220" stroke="#1a4a7a" stroke-width="0.5"/>
+  <rect x="443" y="53" width="10" height="10" rx="2" fill="#0d1220">
+    <animate attributeName="fill" values="#0d1220; #1a4a7a; #1a4a7a" keyTimes="0; 0.198; 1" dur="24.0s" repeatCount="indefinite"/>
   </rect>
-  <rect x="443" y="53" width="10" height="10" rx="2" fill="#0d1220" stroke="#1a4a7a" stroke-width="0.5"/>
-  <rect x="443" y="66" width="10" height="10" rx="2" fill="#0d1220">
-    <animate attributeName="fill" values="#0d1220; #1a4a7a; #1a4a7a" keyTimes="0; 0.371; 1" dur="24.0s" repeatCount="indefinite"/>
-  </rect>
+  <rect x="443" y="66" width="10" height="10" rx="2" fill="#0d1220" stroke="#1a4a7a" stroke-width="0.5"/>
   <rect x="443" y="79" width="10" height="10" rx="2" fill="#0d1220" stroke="#1a4a7a" stroke-width="0.5"/>
   <rect x="443" y="92" width="10" height="10" rx="2" fill="#0d1220" stroke="#1a4a7a" stroke-width="0.5"/>
-  <rect x="443" y="105" width="10" height="10" rx="2" fill="#0d1220" stroke="#1a4a7a" stroke-width="0.5"/>
-  <rect x="443" y="118" width="10" height="10" rx="2" fill="#0d1220">
-    <animate attributeName="fill" values="#0d1220; #1a4a7a; #1a4a7a" keyTimes="0; 0.942; 1" dur="24.0s" repeatCount="indefinite"/>
+  <rect x="443" y="105" width="10" height="10" rx="2" fill="#0d1220">
+    <animate attributeName="fill" values="#0d1220; #1a4a7a; #1a4a7a" keyTimes="0; 0.769; 1" dur="24.0s" repeatCount="indefinite"/>
   </rect>
+  <rect x="443" y="118" width="10" height="10" rx="2" fill="#0d1220" stroke="#1a4a7a" stroke-width="0.5"/>
   <rect x="456" y="40" width="10" height="10" rx="2" fill="#0d1220" stroke="#1a4a7a" stroke-width="0.5"/>
   <rect x="456" y="53" width="10" height="10" rx="2" fill="#0d1220" stroke="#1a4a7a" stroke-width="0.5"/>
   <rect x="456" y="66" width="10" height="10" rx="2" fill="#0d1220" stroke="#1a4a7a" stroke-width="0.5"/>
@@ -410,46 +408,46 @@
   <rect x="534" y="53" width="10" height="10" rx="2" fill="#0d1220" stroke="#1a4a7a" stroke-width="0.5"/>
   <rect x="534" y="66" width="10" height="10" rx="2" fill="#0d1220" stroke="#1a4a7a" stroke-width="0.5"/>
   <rect x="534" y="79" width="10" height="10" rx="2" fill="#0d1220" stroke="#1a4a7a" stroke-width="0.5"/>
-  <rect x="534" y="92" width="10" height="10" rx="2" fill="#0d1220" stroke="#1a4a7a" stroke-width="0.5"/>
+  <rect x="534" y="92" width="10" height="10" rx="2" fill="#0d1220">
+    <animate attributeName="fill" values="#0d1220; #1a4a7a; #1a4a7a" keyTimes="0; 0.676; 1" dur="24.0s" repeatCount="indefinite"/>
+  </rect>
   <rect x="534" y="105" width="10" height="10" rx="2" fill="#0d1220">
-    <animate attributeName="fill" values="#0d1220; #1a4a7a; #1a4a7a" keyTimes="0; 0.750; 1" dur="24.0s" repeatCount="indefinite"/>
+    <animate attributeName="fill" values="#0d1220; #00f0ff; #00f0ff" keyTimes="0; 0.750; 1" dur="24.0s" repeatCount="indefinite"/>
   </rect>
-  <rect x="534" y="118" width="10" height="10" rx="2" fill="#0d1220">
-    <animate attributeName="fill" values="#0d1220; #00f0ff; #00f0ff" keyTimes="0; 0.962; 1" dur="24.0s" repeatCount="indefinite"/>
-  </rect>
+  <rect x="534" y="118" width="10" height="10" rx="2" fill="#0d1220" stroke="#1a4a7a" stroke-width="0.5"/>
   <rect x="547" y="40" width="10" height="10" rx="2" fill="#0d1220" stroke="#1a4a7a" stroke-width="0.5"/>
   <rect x="547" y="53" width="10" height="10" rx="2" fill="#0d1220" stroke="#1a4a7a" stroke-width="0.5"/>
   <rect x="547" y="66" width="10" height="10" rx="2" fill="#0d1220" stroke="#1a4a7a" stroke-width="0.5"/>
-  <rect x="547" y="79" width="10" height="10" rx="2" fill="#0d1220" stroke="#1a4a7a" stroke-width="0.5"/>
+  <rect x="547" y="79" width="10" height="10" rx="2" fill="#0d1220">
+    <animate attributeName="fill" values="#0d1220; #1a4a7a; #1a4a7a" keyTimes="0; 0.462; 1" dur="24.0s" repeatCount="indefinite"/>
+  </rect>
   <rect x="547" y="92" width="10" height="10" rx="2" fill="#0d1220">
     <animate attributeName="fill" values="#0d1220; #1a4a7a; #1a4a7a" keyTimes="0; 0.679; 1" dur="24.0s" repeatCount="indefinite"/>
   </rect>
-  <rect x="547" y="105" width="10" height="10" rx="2" fill="#0d1220">
-    <animate attributeName="fill" values="#0d1220; #1a4a7a; #1a4a7a" keyTimes="0; 0.747; 1" dur="24.0s" repeatCount="indefinite"/>
+  <rect x="547" y="105" width="10" height="10" rx="2" fill="#0d1220" stroke="#1a4a7a" stroke-width="0.5"/>
+  <rect x="547" y="118" width="10" height="10" rx="2" fill="#0d1220">
+    <animate attributeName="fill" values="#0d1220; #1a4a7a; #1a4a7a" keyTimes="0; 0.964; 1" dur="24.0s" repeatCount="indefinite"/>
   </rect>
-  <rect x="547" y="118" width="10" height="10" rx="2" fill="#0d1220" stroke="#1a4a7a" stroke-width="0.5"/>
   <rect x="560" y="40" width="10" height="10" rx="2" fill="#0d1220">
     <animate attributeName="fill" values="#0d1220; #1a4a7a; #1a4a7a" keyTimes="0; 0.110; 1" dur="24.0s" repeatCount="indefinite"/>
   </rect>
-  <rect x="560" y="53" width="10" height="10" rx="2" fill="#0d1220">
-    <animate attributeName="fill" values="#0d1220; #1a4a7a; #1a4a7a" keyTimes="0; 0.173; 1" dur="24.0s" repeatCount="indefinite"/>
-  </rect>
+  <rect x="560" y="53" width="10" height="10" rx="2" fill="#0d1220" stroke="#1a4a7a" stroke-width="0.5"/>
   <rect x="560" y="66" width="10" height="10" rx="2" fill="#0d1220" stroke="#1a4a7a" stroke-width="0.5"/>
   <rect x="560" y="79" width="10" height="10" rx="2" fill="#0d1220" stroke="#1a4a7a" stroke-width="0.5"/>
   <rect x="560" y="92" width="10" height="10" rx="2" fill="#0d1220" stroke="#1a4a7a" stroke-width="0.5"/>
   <rect x="560" y="105" width="10" height="10" rx="2" fill="#0d1220" stroke="#1a4a7a" stroke-width="0.5"/>
   <rect x="560" y="118" width="10" height="10" rx="2" fill="#0d1220" stroke="#1a4a7a" stroke-width="0.5"/>
   <rect x="573" y="40" width="10" height="10" rx="2" fill="#0d1220" stroke="#1a4a7a" stroke-width="0.5"/>
-  <rect x="573" y="53" width="10" height="10" rx="2" fill="#0d1220" stroke="#1a4a7a" stroke-width="0.5"/>
+  <rect x="573" y="53" width="10" height="10" rx="2" fill="#0d1220">
+    <animate attributeName="fill" values="#0d1220; #22d65e; #22d65e" keyTimes="0; 0.170; 1" dur="24.0s" repeatCount="indefinite"/>
+  </rect>
   <rect x="573" y="66" width="10" height="10" rx="2" fill="#0d1220">
-    <animate attributeName="fill" values="#0d1220; #22d65e; #22d65e" keyTimes="0; 0.398; 1" dur="24.0s" repeatCount="indefinite"/>
+    <animate attributeName="fill" values="#0d1220; #3b82f6; #3b82f6" keyTimes="0; 0.398; 1" dur="24.0s" repeatCount="indefinite"/>
   </rect>
   <rect x="573" y="79" width="10" height="10" rx="2" fill="#0d1220">
-    <animate attributeName="fill" values="#0d1220; #3b82f6; #3b82f6" keyTimes="0; 0.456; 1" dur="24.0s" repeatCount="indefinite"/>
+    <animate attributeName="fill" values="#0d1220; #22d65e; #22d65e" keyTimes="0; 0.456; 1" dur="24.0s" repeatCount="indefinite"/>
   </rect>
-  <rect x="573" y="92" width="10" height="10" rx="2" fill="#0d1220">
-    <animate attributeName="fill" values="#0d1220; #22d65e; #22d65e" keyTimes="0; 0.684; 1" dur="24.0s" repeatCount="indefinite"/>
-  </rect>
+  <rect x="573" y="92" width="10" height="10" rx="2" fill="#0d1220" stroke="#1a4a7a" stroke-width="0.5"/>
   <rect x="573" y="105" width="10" height="10" rx="2" fill="#0d1220" stroke="#1a4a7a" stroke-width="0.5"/>
   <rect x="573" y="118" width="10" height="10" rx="2" fill="#0d1220" stroke="#1a4a7a" stroke-width="0.5"/>
   <rect x="586" y="40" width="10" height="10" rx="2" fill="#0d1220" stroke="#1a4a7a" stroke-width="0.5"/>
@@ -482,53 +480,53 @@
   <rect x="625" y="118" width="10" height="10" rx="2" fill="#0d1220" stroke="#1a4a7a" stroke-width="0.5"/>
   <rect x="638" y="40" width="10" height="10" rx="2" fill="#0d1220" stroke="#1a4a7a" stroke-width="0.5"/>
   <rect x="638" y="53" width="10" height="10" rx="2" fill="#0d1220" stroke="#1a4a7a" stroke-width="0.5"/>
-  <rect x="638" y="66" width="10" height="10" rx="2" fill="#0d1220" stroke="#1a4a7a" stroke-width="0.5"/>
-  <rect x="638" y="79" width="10" height="10" rx="2" fill="#0d1220">
-    <animate attributeName="fill" values="#0d1220; #00f0ff; #00f0ff" keyTimes="0; 0.442; 1" dur="24.0s" repeatCount="indefinite"/>
+  <rect x="638" y="66" width="10" height="10" rx="2" fill="#0d1220">
+    <animate attributeName="fill" values="#0d1220; #00f0ff; #00f0ff" keyTimes="0; 0.412; 1" dur="24.0s" repeatCount="indefinite"/>
   </rect>
+  <rect x="638" y="79" width="10" height="10" rx="2" fill="#0d1220" stroke="#1a4a7a" stroke-width="0.5"/>
   <rect x="638" y="92" width="10" height="10" rx="2" fill="#0d1220" stroke="#1a4a7a" stroke-width="0.5"/>
   <rect x="638" y="105" width="10" height="10" rx="2" fill="#0d1220" stroke="#1a4a7a" stroke-width="0.5"/>
   <rect x="638" y="118" width="10" height="10" rx="2" fill="#0d1220" stroke="#1a4a7a" stroke-width="0.5"/>
-  <rect x="651" y="40" width="10" height="10" rx="2" fill="#0d1220" stroke="#1a4a7a" stroke-width="0.5"/>
+  <rect x="651" y="40" width="10" height="10" rx="2" fill="#0d1220">
+    <animate attributeName="fill" values="#0d1220; #1a4a7a; #1a4a7a" keyTimes="0; 0.129; 1" dur="24.0s" repeatCount="indefinite"/>
+  </rect>
   <rect x="651" y="53" width="10" height="10" rx="2" fill="#0d1220">
     <animate attributeName="fill" values="#0d1220; #1a4a7a; #1a4a7a" keyTimes="0; 0.154; 1" dur="24.0s" repeatCount="indefinite"/>
   </rect>
-  <rect x="651" y="66" width="10" height="10" rx="2" fill="#0d1220">
-    <animate attributeName="fill" values="#0d1220; #1a4a7a; #1a4a7a" keyTimes="0; 0.415; 1" dur="24.0s" repeatCount="indefinite"/>
+  <rect x="651" y="66" width="10" height="10" rx="2" fill="#0d1220" stroke="#1a4a7a" stroke-width="0.5"/>
+  <rect x="651" y="79" width="10" height="10" rx="2" fill="#0d1220">
+    <animate attributeName="fill" values="#0d1220; #3b82f6; #3b82f6" keyTimes="0; 0.440; 1" dur="24.0s" repeatCount="indefinite"/>
   </rect>
-  <rect x="651" y="79" width="10" height="10" rx="2" fill="#0d1220" stroke="#1a4a7a" stroke-width="0.5"/>
   <rect x="651" y="92" width="10" height="10" rx="2" fill="#0d1220">
-    <animate attributeName="fill" values="#0d1220; #3b82f6; #3b82f6" keyTimes="0; 0.701; 1" dur="24.0s" repeatCount="indefinite"/>
+    <animate attributeName="fill" values="#0d1220; #22d65e; #22d65e" keyTimes="0; 0.701; 1" dur="24.0s" repeatCount="indefinite"/>
   </rect>
   <rect x="651" y="105" width="10" height="10" rx="2" fill="#0d1220">
-    <animate attributeName="fill" values="#0d1220; #22d65e; #22d65e" keyTimes="0; 0.725; 1" dur="24.0s" repeatCount="indefinite"/>
+    <animate attributeName="fill" values="#0d1220; #00f0ff; #00f0ff" keyTimes="0; 0.725; 1" dur="24.0s" repeatCount="indefinite"/>
   </rect>
   <rect x="651" y="118" width="10" height="10" rx="2" fill="#0d1220">
-    <animate attributeName="fill" values="#0d1220; #00f0ff; #00f0ff" keyTimes="0; 0.986; 1" dur="24.0s" repeatCount="indefinite"/>
+    <animate attributeName="fill" values="#0d1220; #1a4a7a; #1a4a7a" keyTimes="0; 0.986; 1" dur="24.0s" repeatCount="indefinite"/>
   </rect>
   <rect x="664" y="40" width="10" height="10" rx="2" fill="#0d1220">
-    <animate attributeName="fill" values="#0d1220; #1a4a7a; #1a4a7a" keyTimes="0; 0.132; 1" dur="24.0s" repeatCount="indefinite"/>
+    <animate attributeName="fill" values="#0d1220; #3b82f6; #3b82f6" keyTimes="0; 0.132; 1" dur="24.0s" repeatCount="indefinite"/>
   </rect>
   <rect x="664" y="53" width="10" height="10" rx="2" fill="#0d1220">
-    <animate attributeName="fill" values="#0d1220; #3b82f6; #3b82f6" keyTimes="0; 0.151; 1" dur="24.0s" repeatCount="indefinite"/>
+    <animate attributeName="fill" values="#0d1220; #1a4a7a; #1a4a7a" keyTimes="0; 0.151; 1" dur="24.0s" repeatCount="indefinite"/>
   </rect>
-  <rect x="664" y="66" width="10" height="10" rx="2" fill="#0d1220">
-    <animate attributeName="fill" values="#0d1220; #1a4a7a; #1a4a7a" keyTimes="0; 0.418; 1" dur="24.0s" repeatCount="indefinite"/>
-  </rect>
+  <rect x="664" y="66" width="10" height="10" rx="2" fill="#0d1220" stroke="#1a4a7a" stroke-width="0.5"/>
   <rect x="664" y="79" width="10" height="10" rx="2" fill="#0d1220" stroke="#1a4a7a" stroke-width="0.5"/>
   <rect x="664" y="92" width="10" height="10" rx="2" fill="#0d1220" stroke="#1a4a7a" stroke-width="0.5"/>
   <rect x="664" y="105" width="10" height="10" rx="2" fill="#0d1220" stroke="#1a4a7a" stroke-width="0.5"/>
   <rect x="664" y="118" width="10" height="10" rx="2" fill="#0d1220" stroke="#1a4a7a" stroke-width="0.5"/>
   <rect x="677" y="40" width="10" height="10" rx="2" fill="#0d1220" stroke="#1a4a7a" stroke-width="0.5"/>
   <rect x="677" y="53" width="10" height="10" rx="2" fill="#0d1220" stroke="#1a4a7a" stroke-width="0.5"/>
-  <rect x="677" y="66" width="10" height="10" rx="2" fill="#0d1220" stroke="#1a4a7a" stroke-width="0.5"/>
-  <rect x="677" y="79" width="10" height="10" rx="2" fill="#0d1220">
-    <animate attributeName="fill" values="#0d1220; #1a4a7a; #1a4a7a" keyTimes="0; 0.434; 1" dur="24.0s" repeatCount="indefinite"/>
+  <rect x="677" y="66" width="10" height="10" rx="2" fill="#0d1220">
+    <animate attributeName="fill" values="#0d1220; #1a4a7a; #1a4a7a" keyTimes="0; 0.420; 1" dur="24.0s" repeatCount="indefinite"/>
   </rect>
-  <rect x="677" y="92" width="10" height="10" rx="2" fill="#0d1220" stroke="#1a4a7a" stroke-width="0.5"/>
-  <rect x="677" y="105" width="10" height="10" rx="2" fill="#0d1220">
-    <animate attributeName="fill" values="#0d1220; #1a4a7a; #1a4a7a" keyTimes="0; 0.720; 1" dur="24.0s" repeatCount="indefinite"/>
+  <rect x="677" y="79" width="10" height="10" rx="2" fill="#0d1220" stroke="#1a4a7a" stroke-width="0.5"/>
+  <rect x="677" y="92" width="10" height="10" rx="2" fill="#0d1220">
+    <animate attributeName="fill" values="#0d1220; #1a4a7a; #1a4a7a" keyTimes="0; 0.706; 1" dur="24.0s" repeatCount="indefinite"/>
   </rect>
+  <rect x="677" y="105" width="10" height="10" rx="2" fill="#0d1220" stroke="#1a4a7a" stroke-width="0.5"/>
   <rect x="677" y="118" width="10" height="10" rx="2" fill="#0d1220" stroke="#1a4a7a" stroke-width="0.5"/>
   <rect x="690" y="40" width="10" height="10" rx="2" fill="#0d1220" stroke="#1a4a7a" stroke-width="0.5"/>
   <rect x="690" y="53" width="10" height="10" rx="2" fill="#0d1220" stroke="#1a4a7a" stroke-width="0.5"/>
@@ -542,10 +540,10 @@
   <rect x="703" y="66" width="10" height="10" rx="2" fill="#0d1220" stroke="#1a4a7a" stroke-width="0.5"/>
   <rect x="703" y="79" width="10" height="10" rx="2" fill="#0d1220" stroke="#1a4a7a" stroke-width="0.5"/>
   <rect x="703" y="92" width="10" height="10" rx="2" fill="#0d1220" stroke="#1a4a7a" stroke-width="0.5"/>
-  <rect x="703" y="105" width="10" height="10" rx="2" fill="#0d1220" stroke="#1a4a7a" stroke-width="0.5"/>
-  <rect x="703" y="118" width="10" height="10" rx="2" fill="#0d1220">
-    <animate attributeName="fill" values="#0d1220; #1a4a7a; #1a4a7a" keyTimes="0; 0.997; 1" dur="24.0s" repeatCount="indefinite"/>
+  <rect x="703" y="105" width="10" height="10" rx="2" fill="#0d1220">
+    <animate attributeName="fill" values="#0d1220; #1a4a7a; #1a4a7a" keyTimes="0; 0.714; 1" dur="24.0s" repeatCount="indefinite"/>
   </rect>
+  <rect x="703" y="118" width="10" height="10" rx="2" fill="#0d1220" stroke="#1a4a7a" stroke-width="0.5"/>
   <g>
     <g>
       <polygon points="10,0 30,-10 30,10" fill="url(#roverHeadlight)" opacity="0.75"/>
